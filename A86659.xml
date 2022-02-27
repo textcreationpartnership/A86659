@@ -1,0 +1,1313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sermo secularis. Or, A sermon to bring to remembrance the dealings of Jehovah with this kingdom of England, and our ingratitude and dis-loyalty to him, in this last century of years. Ab anno nativitatis Christi, 1547. usque ad præsentem annum, 1647. The time of the ruine of Rome, is herein according to Gods Word modestly pointed at. With sundry uses seasonable and sutable for all degrees and sorts of people. / Preached at Belstead, neer Ipswich, July 4, 1647. By Benjamin Hubbard, preacher of the Word of God at Copdock in Suffolke.</title>
+            <author>Hubbard, Benjamin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 142 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86659</idno>
+            <idno type="STC">Wing H3207</idno>
+            <idno type="STC">Thomason E422_15</idno>
+            <idno type="STC">ESTC R202479</idno>
+            <idno type="EEBO-CITATION">99862739</idno>
+            <idno type="PROQUEST">99862739</idno>
+            <idno type="VID">114915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114915)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sermo secularis. Or, A sermon to bring to remembrance the dealings of Jehovah with this kingdom of England, and our ingratitude and dis-loyalty to him, in this last century of years. Ab anno nativitatis Christi, 1547. usque ad præsentem annum, 1647. The time of the ruine of Rome, is herein according to Gods Word modestly pointed at. With sundry uses seasonable and sutable for all degrees and sorts of people. / Preached at Belstead, neer Ipswich, July 4, 1647. By Benjamin Hubbard, preacher of the Word of God at Copdock in Suffolke.</title>
+                  <author>Hubbard, Benjamin.</author>
+               </titleStmt>
+               <extent>[10], 50 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.L. for Nathanael Webb, and William Grantbam [i.e. Grantham], at the Signe of the Greyhound in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 11th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>God --  Wrath --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Tudors, 1485-1603 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Early Stuarts, 1603-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114915:1" rendition="simple:additions"/>
+            <p>
+               <hi>SERMO SEC<g ref="char:V">Ʋ</g>LARIS.</hi> OR, A SERMON To bring to Remembrance the Dealings of JEHOVAH with this Kingdom of ENGLAND, and our ingra<g ref="char:EOLhyphen"/>titude and diſ-loyalty to HIM, in this laſt Century of years.</p>
+            <p>
+               <hi>Ab Anno Nativitatis Chriſti, 1547.</hi>
+            </p>
+            <p>
+               <hi>Uſque ad praeſentem Annum, 1647.</hi>
+            </p>
+            <q>
+               <bibl>PSAL. 107.43.</bibl>
+               <p>Who ſo is wiſe, and will obſerve thoſe things: even they ſhall underſtand the loving kindneſſe of the Lord.</p>
+            </q>
+            <q>
+               <bibl>DEUT. 32 6.</bibl>
+               <p>Doe ye thus requite the LORD, O fooliſh people, and unwiſe? Is not he thy Father that hath bought thee? Hath he not made thee and eſtabliſhed thee?</p>
+            </q>
+            <q>
+               <bibl>PROV. 9.12.</bibl>
+               <p>If thou be wiſe, thou ſhalt be wiſe for thy ſelfe: but if thou ſcorneſt, thou alone ſhalt beare it.</p>
+            </q>
+            <p>The Time of the Ruine of ROME, is herein according to Gods Word modeſtly pointed at.</p>
+            <p>
+               <hi>With ſundry Uſes ſeaſonable and ſutable for all degrees and ſorts of people.</hi>
+            </p>
+            <q>
+               <bibl>DAN. 12 4.</bibl> Many ſhall run to and fro, and knowledge ſhall be increaſed.</q>
+            <q>
+               <bibl>Tho. Brightmannus</bibl> 
+               <hi>Haec obſcuritas non omnem intellectum adimet ſanctis, ſed ſerutandi tantùm diligentiam acuet.</hi>
+            </q>
+            <p>Preached at <hi>Belſtead,</hi> neer <hi>Ipſwich, July</hi> 4, 1647.</p>
+            <p>By BENJAMIN HUBBARD, Preacher of the Word of God at COPDOCK in SUFFOLKE.</p>
+            <p>LONDON, Printed by <hi>R. L.</hi> for <hi>Nathanael Webb,</hi> and <hi>William Grantbam,</hi> at the Signe of the <hi>Greyhound</hi> in <hi>Pauls</hi> Church-yard, 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114915:2"/>
+            <pb facs="tcp:114915:2"/>
+            <head>To the Right WORSHIPFUL, NATHANAEL BACON, <hi>AND</hi> FRANCIS BACON, <hi>ESQ<g ref="char:V">Ʋ</g>IRES:</hi> Members of the Honorable Houſe of Commons now aſſembled in PARLIAMENT, And His MAJESTIES Juſtices of Peace for the County of <hi>S<g ref="char:V">Ʋ</g>FFOLK.</hi>
+            </head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here is no Age in which God doth not manifeſt his infinite Wiſdom, Goodneſſe, and Juſtice,<note place="margin">Pſal. 107. <hi>ult.</hi>
+               </note> by ſome apparent ſtroaks of His hand; and daily obſervation will teach us experience herein: And indeed in the Age even now paſt, or the laſt Century of
+<pb facs="tcp:114915:3"/>
+yeares,<note place="margin">Pſal. 107.1, 2.</note> 
+               <hi>We that are the redeemed of the Lord,</hi> which he hath delivered from the Egyptian dark<g ref="char:EOLhyphen"/>neſſe of Popery, and <hi>Spains</hi> helliſh cruelty, and from the devilliſh treachery of others: We (I ſay) may well ſing aloud,<note place="margin">Pſal. 111.2, 3, 4</note> 
+               <hi>O give thanks unto the Lord, for he is good, for his mercie endureth for ever. His works are honourable and glorious, which he hath made to be ſought out,</hi>
+               <note place="margin">Pſal. 105.2. &amp; 26.7.</note> 
+               <hi>and remembred of all them that have pleaſure therein.</hi> It is our duty then to ſearch out, and to keepe in remembrance Gods gracious providences concerning us in this Land, and to confer together of them, and declare them to others, and eſpecially to raiſe up our hearts into an holy admiration, ſaying unto God himſelfe, <hi>O! how great is thy goodneſſe, which thou haſt laid up for them that feare thee,</hi>
+               <note place="margin">Pſal. 31.19.</note> 
+               <hi>which thou haſt wrought for them that truſt in thee before the ſonnes of men!</hi>
+               <note place="margin">Pſal. 66.3.</note> 
+               <hi>And how terrible art thou in thy works! Through the greatneſſe of thy power, ſhall thine enemies ſubmit them<g ref="char:EOLhyphen"/>ſelves unto thee.</hi> And withall conſider with our ſelves;<note place="margin">1 Pet. 3.11.</note> What manner of <hi>perſons</hi> ſhould <hi>we be in all holy converſation and godlineſſe?</hi> Now that we might ſo doe, I have endeavoured (according to my poore ability) <hi>to bring to remembrance the dealings of JEHOVAH with this Kingdom of</hi> England, <hi>and our ingratitude and diſ-loyalty to him in this by-paſt Age;</hi> not at large, but briefly, humbly beg<g ref="char:EOLhyphen"/>ging of every one his largeſt bounty, for the augmen<g ref="char:EOLhyphen"/>ting, amplifying, and compleating in his own minde, the Meditations herein pointed at; ſo ſhall my ſingle and ſimple Muſick (by the good bleſſing of our God)
+<pb facs="tcp:114915:3"/>
+be not onely increaſed, but multiplyed; and <hi>thanks ſhall be given to God by many</hi> (and thoſe far more fit for ſuch a Caeleſtiall ſervice,<note place="margin">2 Cor. 1.11.</note> then I am) <hi>by</hi> my means; and all of us together, as a well-tuned <hi>Quire,</hi> ſhall make ſweet harmony, whereby Gods glory ſhall be promoted, which (I know) your re<g ref="char:EOLhyphen"/>ligious ſelves conſcionably ayme at. Therefore (moſt worthy Sirs) I am bold to preſent this Ser<g ref="char:EOLhyphen"/>mon unto your Patronage, hereby to teſtifie both to you my ſincere thankfulneſſe and love, and to the World (who hath heard of the fame of your renown<g ref="char:EOLhyphen"/>ed <hi>Anceſtors,</hi> for harbouring, relieving, yea even maintaining many faithfull Miniſters, be<g ref="char:EOLhyphen"/>ing perſecuted,) that the Lord hath not left your Honourable Progenitor (being in his time <hi>a pat<g ref="char:EOLhyphen"/>tern of Piety</hi>) deſtitute of a Worſhipfull Poſterity,<note place="margin">M. <hi>Allen,</hi> Pre<g ref="char:EOLhyphen"/>face to <hi>Doct. Goſp.</hi>
+               </note> (your ſelves and your brethren) who walke in the ſteps of your religious Parents; and are not onely inheritors of the ſame earthly Manſions and Poſ<g ref="char:EOLhyphen"/>ſeſſions; and ſucceſſors in their high places of authority, importing dignity and duty, but alſo (which is beſt of all) Poſſeſſors of the ſame Spi<g ref="char:EOLhyphen"/>rit of Chriſt, and the graces thereof,<note place="margin">Rom. 8.9.2 Tim. 1.5.</note> whereby you are enabled to behave your ſelves in thoſe places, and uſe thoſe eſtates to his Glory that gave you them. Thus humbly intreating <hi>Jeho<g ref="char:EOLhyphen"/>vah</hi> to counſell and direct you in all the weighty <hi>Agitations</hi> of this Kingdome, to make you doe right worthily, and to proſper your ſelves and yours in ſoule and body; And craving of you to pardon my boldneſſe and rudeneſſe, and to extend
+<pb facs="tcp:114915:4"/>
+your wonted favours (the <hi>Aſylum</hi> of many faithfull Miniſters) to me (though unworthy,) who indeed am much more willing,<note place="margin">Ad vos tan<g ref="char:EOLhyphen"/>quam ad Aſy<g ref="char:EOLhyphen"/>lum conſugi<g ref="char:EOLhyphen"/>mus.</note> then able to ſerve you: I remain,</p>
+            <closer>
+               <dateline>London, <date>Sept. 20.</date>
+               </dateline>
+               <signed>
+                  <hi>Yours in CHRIST JESUS,</hi> Benjamin Hubbard.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114915:4"/>
+            <head>To the Right WORSHIPFUL, <hi>THOMAS BLOSSE,</hi> ESQUIRE, HIGH SHERIFFE of the County of <hi>S<g ref="char:V">Ʋ</g>FFOLK.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by the All-diſpoſing hand of the Almighty, this Sermon had its birth in your hearing, of which your Worſhip was pleaſed to manifeſt your favourable ac<g ref="char:EOLhyphen"/>ceptance, now being importuned to publiſh the ſame, I thought it but equall, it
+<pb facs="tcp:114915:5"/>
+ſhould againe returne to your ſelfe, as an humble and thankfull acknowledgement of all your many and great kindneſſes both to me and mine, and the rather becauſe your former acceptance was no ſmall incouragement hereunto. Kind <hi>Sir,</hi> the experience that I have of your wonted benignitie, gives me rather aſſurance then hope that you will not value the ſame by the imperfections of the worke or writer; but by the weighty matter, of e<g ref="char:EOLhyphen"/>ternall concernment, for every ſoule contained therein; and by the good will of him who ſincere<g ref="char:EOLhyphen"/>ly deſires the preſent proſperity and eternall feli<g ref="char:EOLhyphen"/>city of you and yours; Who is alſo</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>Septem.</hi> 20.</date>
+               </dateline>
+               <signed>
+                  <hi>Yours to command, in the ſervice of Chriſt.</hi> Benjamin Hubbard.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:114915:5"/>
+            <head>To THE READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Eeing a word ſpoken in his ſeaſon, is ad<g ref="char:EOLhyphen"/>mirably good, yea it is <hi>like apples of gold in pictures of ſilver,</hi> and runs cleverly as upon his wheels, and that none (that I heare of) have made this uſe of the <hi>Opportunity</hi> which now is, <hi>paſt by</hi> and <hi>gone;</hi> And conſidering, that he which hath feweſt Talents, ought to occupy them for his maſters ad<g ref="char:EOLhyphen"/>vantage: and not knowing what power of God may ſhew it ſelfe in the weakneſſe of his feeble creature; in blowing his trumpet, and breaking his earthen pitcher, it may be ſome light may break forth to conſolate and encourage the people of God: to put in a fright his and his peoples enemies, that they might tremble and not dare to ſinne, but make their peace with God; which I heartily deſire: therefore at the inſtant importunity of a ſpeciall Chriſtian freind, and being much encouraged by the very loving acceptation it found from other Chri<g ref="char:EOLhyphen"/>ſtians that heard it, I was content this Sermon ſhould be publiſhed, if it be judged meet. It is indeed brought
+<pb facs="tcp:114915:6"/>
+forth in a time, wherein I my ſelf have both much em<g ref="char:EOLhyphen"/>ployment, and many troubles, that I could not afford un<g ref="char:EOLhyphen"/>to it ſuch ſerious premeditation, nor review, as I deſi<g ref="char:EOLhyphen"/>red: nor have I the helpe of many books uſefull for ſuch a purpoſe, nor yet a dexterity in <hi>Temporary narrations,</hi> as thoſe that are skilfull in the times, both which were requiſite in a Sermon of this ſubject: yet that is but part of the matter, and (if I miſtake not) here is ſome thing uſefull for thy ſoule, in whatſoever condition thou art. And therefore I pray thee, in Chriſtian love either heal or conceale any failing thou findeſt in it, and ſay (as tru<g ref="char:EOLhyphen"/>ly thou may'ſt) <hi>perhaps it was an overſight;</hi> for I con<g ref="char:EOLhyphen"/>feſſe, I am full of infirmities; beare with my rudeneſſe in ſpeech, I do aſſure thee I would be loath to offend any gracious ſoule. But faile thou not to make particular ap<g ref="char:EOLhyphen"/>plication to thy own ſelfe, of what thou findeſt moſt ſu<g ref="char:EOLhyphen"/>table to thy own eſtate and condition; ſo ſhall God have the glory, and thy ſoule ſhall proſper, and my ſoule ſhall rejoyce with thee. This I heartily deſire; And remain,</p>
+            <closer>
+               <dateline>
+                  <hi>Copdock,</hi> 
+                  <date>
+                     <hi>July: 1647.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Thine in Chriſt,</hi> Benjamin Hubbard.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:114915:6" rendition="simple:additions"/>
+            <head>DANIEL 5.25. <hi>The latter words of that Verſe.</hi> MENE MENE, TEKEL VPHARSIN.</head>
+            <p>RIght Worſhipfull,<note place="margin">Sapè fit ut ali<g ref="char:EOLhyphen"/>qua brevis &amp; exigua ſcriptio vocetur liber. <hi>Matth. 1.1. &amp; 19.7.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Deut. 24.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> and beloved in our Lord and Saviour Jeſus Chriſt, of the ſixty ſix books of <hi>Sa<g ref="char:EOLhyphen"/>cred Scripture,</hi> ſome are more Hiſtoricall, relating many things done before the writing of them, as the books of <hi>Moſes,</hi> and the Evangeliſts: ſome are more doctrinall, teaching the rules of a Chriſtian life and a holy converſation, as <hi>the Epiſtles of the Apoſtles</hi> and ſome are more Propheticall, and ſo are the words of my Text,</p>
+            <q>Mene Mane, Tekel Upharſin,</q>
+            <p>There are foure difficulties that doe obſcure and veile the meaning of the Text, which I ſhall comprehend in theſe four words,</p>
+            <q>Tempus, Locus, Lingua, Brevitas.</q>
+            <p>There is likewiſe a fourfold conſideration that will far<g ref="char:EOLhyphen"/>ther help us to underſtand the ſame in ſome meaſure; take them in theſe foure words,</p>
+            <q>Occaſio, Quomodo, Quibus, Eventus.</q>
+            <p>Give me leave to ſpeake briefly of theſe eight particu<g ref="char:EOLhyphen"/>lars.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+               <hi>Tempus.</hi> The circumſtance of time when, when theſe things were done, which are mentioned in this Chapter, is very conſiderable. And although thoſe that have beene fa<g ref="char:EOLhyphen"/>mous for their ſtudies in <hi>Chronologie,</hi> do not all agree herein, yet the difference betwixt moſt of them is not very much, conſidering the great difficulty of the work.</p>
+            <p>
+               <pb n="2" facs="tcp:114915:7" rendition="simple:additions"/>
+               <note place="margin">
+                  <p>In opere Chro<g ref="char:EOLhyphen"/>nologico.</p>
+                  <p>Anno <hi>3395.</hi> An. Mun. <hi>3412</hi> Vide, de Annis Captivitatis Babylonicae. Chyt. Chrono. Herodoti. <hi>3424.</hi> Funct. <hi>3425.</hi> Perkins <hi>3430.</hi> In <hi>2</hi> Chron. <hi>36.23.</hi>
+                  </p>
+                  <p>Dan. 6.1. Dan. 5. ult. Ezra <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+               </note>
+               <hi>Calviſius</hi> ſets down theſe things as done in the yeare of the World 3395, and ſaith, that <hi>Cyrus</hi> overcame <hi>Darius Medus,</hi> and tooke <hi>Babylon</hi> 17 yeares after; and that the Jews had liberty to return to <hi>Judea,</hi> and build the Temple, in the yeare 3418, and that they returned 3419. But <hi>Chyiraeus, Functius,</hi> and M<hi rend="sup">r</hi>. <hi>Perkins,</hi> doe write that theſe things were done about the yeare of the World 3425, and in the laſt year of the Babyloniſh captivity; for <hi>Cyrus</hi> began to reigne pre<g ref="char:EOLhyphen"/>ſently after the death of <hi>Belſhazzar,</hi> although his father-in-Law <hi>Darius Medus</hi> had the Name and Title for honour ſake, yet <hi>Cyrus</hi> himſelfe in effect had the dominion, as <hi>Tro<g ref="char:EOLhyphen"/>mellius, Junius,</hi> and <hi>Calvin</hi> obſerve. Now certain it is, that in the firſt yeare of <hi>Cyrus,</hi> after that he and <hi>Darius</hi> had wonne <hi>Babylon,</hi> the Jews had free liberty to return out of that captivity, 2 <hi>Chron.</hi> 36.20. And hence I gather, that theſe things were done in the laſt yeare of the Babyloniſh captivity.</p>
+            <p>
+               <hi>Locus.</hi> The circumſtance of the place is alſo very conſi<g ref="char:EOLhyphen"/>derable,<milestone type="tcpmilestone" unit="unspecified" n="2"/> for as One ſayth, Time and Place are the two eyes of Hiſtory. Now it is conceived by ſome, that there be three Cities called <hi>Babylon,</hi> in the ſacred Scriptures.</p>
+            <p>
+               <note place="margin">Gen. 11.2, 4.</note>
+               <hi>Babylon,</hi> even that City where the Tower was built by <milestone type="tcpmilestone" unit="unspecified" n="1"/> men, who o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the infidelity and pride of their hearts, thought by that means to provide for their honour and ſafe<g ref="char:EOLhyphen"/>ty, from the floud of Gods diſpleaſure; they choſe a Plain neer to the great River <hi>Euphrates,</hi> and build the City partly on the one ſide,<note place="margin">2 Chron. 36.20 Pſal. 137.1, 2, 3. Dan. 4.30. Gen. 11.8, 9. Iſa. 13.19. <hi>Babyl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lon.</hi> 83.10 <hi>lat.</hi> 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.50. <hi>Ieruſ.</hi> 66.0.31.40. <hi>Clavius in Io<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>de Sacro Boſco.</hi>
+               </note> and partly on the other ſide of the ſame River. And thither the Jews were carryed into captivity, and there they made their lamentation. And in it was the Royall Palace of the Kings of <hi>Caldea.</hi> It was at firſt called <hi>Babel,</hi> for the confuſion of Tongues, a judgement of God upon the firſt builders of it, as it tended to confuſion at the laſt. It was ſcituate neereſt the Rumbe, Eaſt and by North from <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and diſtent from it about eight hundred ſeventy and five miles.</p>
+            <p>
+               <hi>Cayro,</hi> a famous City in <hi>Egypt,</hi> is by ſome Authors na<g ref="char:EOLhyphen"/>med <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Babylon,</hi> and ſo it is called in <hi>Ortelius</hi> his Map, at which
+<pb n="3" facs="tcp:114915:7" rendition="simple:additions"/>
+place,<note place="margin">Fran. Sac. Qu. Funct. Com. Chron. Anno Chriſt. <hi>44</hi> &amp; <hi>45</hi> B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in. totius Sa. Scrip. Calvin. Beza in <hi>1</hi> Pet. <hi>4.13.</hi> Rhem. Annot. in <hi>1</hi> Pet. <hi>5.13.</hi> Calviſ. Chrono. in An. poſt Chri. <hi>64.</hi> negat. <hi>2 Cor. 11.28. Rom. 15, 16, 20 Rom. 16. 2 Tim. 4.6, 16. Revel. 17.4, 5. &amp; 18.2. Revel 11.8. Revel. 17.5.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ulling. Brightman. <hi>L.</hi> Napier. Fr. Iuniur. <hi>Dan. 4.30.</hi>
+               </note> ſome doe conceive <hi>Peter</hi> the Apoſtle was when he wrote his firſt Epiſtle, although ſome rather hold he was then at another City, of that name, in <hi>Aſſyria.</hi> But the Tranſ<g ref="char:EOLhyphen"/>lators of the Rhemiſh Teſtament, in their Notes upon that place doe ſay, that by <hi>Babylon</hi> is meant <hi>Rome,</hi> becauſe they would thereby confirme their ſaying, That <hi>Peter</hi> the Apoſtle was Biſhop of <hi>Rome</hi> 25 yeares, which is contrary to the holy Hiſtories in the <hi>Acts of the Apoſtles,</hi> and to many paſ<g ref="char:EOLhyphen"/>ſages of the Apoſtle <hi>Paul</hi> in his Epiſtles. But is <hi>Rome Ba<g ref="char:EOLhyphen"/>bylon</hi> by their own confeſſion? then, <hi>ex ore tuo,</hi> by thine own confeſſion, ô Papiſt, we conclude, <hi>Rome</hi> is <hi>Babylon</hi> and the mother of whoredoms, and ſhortly to be deſtroyed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Rome,</hi> in a figurative and ſpirituall ſenſe, is called <hi>Babylon</hi> in very deed, <hi>Revel.</hi> 18.2. as all Orthodox, Modern Expoſitors doe interpret the ſame, both for their proud upriſing, ſuper<g ref="char:EOLhyphen"/>ſtitious Idolatries, and horrible confuſion a <hi>Rome</hi> is alſo cal<g ref="char:EOLhyphen"/>led <hi>Egypt,</hi> becauſe it hath been a priſon and bondage to Gods people and truth, <hi>Revel.</hi> 11.8. But theſe things men<g ref="char:EOLhyphen"/>tioned in this Chapter, were done in the City, in which both <hi>Belſhazzar</hi> did live, and before him <hi>Nebuchadnezzar,</hi> which was firſt, properly, and conſtantly called <hi>Babylon,</hi> ſci<g ref="char:EOLhyphen"/>tuate by the River <hi>Euphrates,</hi> as I ſaid before.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>Lingua.</hi> The language this my Text was written in; for theſe words, <hi>Mene Mene, Tekel Upharſin,</hi> are not pro<g ref="char:EOLhyphen"/>perly Hebrew words, as moſt words of the old Teſtament be, but the <hi>Caldean</hi> Language, which, both for the character and tone, is of neere affinity with the Hebrew, as I ſhall ſhew more plainly by and by.</p>
+            <p>But then it may be admired,<note place="margin">Object.</note> why the learned men of <hi>Caldea,</hi> could not read it?</p>
+            <p>I anſwer,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Some, both godly and learned, have obſerved,<note place="margin">Anſw. wemes Chriſtian Synag.</note> that theſe words were written (firſt) in the <hi>Caldean tongue,</hi> and the <hi>Sa<g ref="char:EOLhyphen"/>maritan character,</hi> which differed very much from the <hi>Caldie</hi> letters, and therefore they could not read it.</p>
+            <p>Or elſe, it was the wonderfull work of God; to take the wiſe in their own craftineſſe, he did confound their skill,<note place="margin">Job 5.13.</note> for
+<pb n="4" facs="tcp:114915:8"/>
+they could not ſo much as read it, much leſſe could they in<g ref="char:EOLhyphen"/>terpret the writing.</p>
+            <p>
+               <hi>Brevitas,</hi> Brevity is often a ground of obſcurity, as in the <milestone type="tcpmilestone" unit="unspecified" n="4"/> Morall Commandements,<note place="margin">
+                  <hi>Brevis eſſe la<g ref="char:EOLhyphen"/>boro, obſcurus fio.</hi> Eccleſ. 12.13. Deut. 10.4. Nehem. 8.8. Matth. 5.</note> which contain the whole duty of all men in ten words; therefore did they need explaining and expounding, even to thoſe that ſpoke the ſame language; hence it is, that many can ſay the Commandements, but ve<g ref="char:EOLhyphen"/>ry few underſtand them. And therefore when <hi>Daniel</hi> had read the writing, yet the hardeſt worke was ſtill to doe, namely, the interpretation and application of the words, <hi>hic labor,</hi>
+               <note place="margin">Verſ. 26.27, 28</note> 
+               <hi>hoc opus eſt;</hi> and therefore he ſpends three verſes in that work.</p>
+            <p>And now I come to the foure Conſiderations tending to the clearer illuſtration of the meaning of theſe words,</p>
+            <p>
+               <hi>Occaſio,</hi> the Occaſion was a merry meeting of a company <milestone type="tcpmilestone" unit="unspecified" n="1"/> of boon companions at a great feaſt, to drink and carouſe with marvellous mirth; for though the King of the <hi>Calde<g ref="char:EOLhyphen"/>ans</hi> was wont to diſdain the company of his Lords, yet now to ſhew his great careleſneſſe (although the City was beſieged) he would make a feaſt,<note place="margin">Dan. 5.1. Jer. 25.12, 15, 17. Dan. 5.2, 3, 4.</note> and drinke before a thou<g ref="char:EOLhyphen"/>ſand of his Lords: And, as was foretold, it tended to his de<g ref="char:EOLhyphen"/>ſtruction, for drunkenneſſe ſeldom goeth alone; he firſt pro<g ref="char:EOLhyphen"/>phaneth the veſſels of the Lords houſe, and then blaſphe<g ref="char:EOLhyphen"/>meth God, by magnifying his Idoll idle gods.</p>
+            <p>
+               <hi>Quomodo,</hi> the manner how this mad mirth was quelled,<milestone type="tcpmilestone" unit="unspecified" n="2"/> and theſe joving companions, in the midſt of their wine and jollity, amazed and affrighted, <hi>mirabile dictu,</hi> a ſtrange thing to be told; the King, his Lords, and all are amazed, why?<note place="margin">Digitus Dei hic.</note> what's the matter? No man, but a hand; no hand, but the fingers of a hand were ſeen to write over againſt the Candleſtick, that all might behold it, <hi>And this was the wri<g ref="char:EOLhyphen"/>ting that was written, Mene Mene, Tekel Upharſin:</hi> and all their wiſe men could not read it, this made their hearts to ake; they were terrified and aſtonied, for they might ſee plainly,<note place="margin">Dan. 5.6, 9. Exod. 8.18, 19.</note> it was <hi>the finger of God.</hi> Thus God by ſmall means can quell the ſwelling braves of proud men.</p>
+            <p>
+               <hi>Quibus,</hi> to what perſons this ſpeech is referred, truly in <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <pb n="5" facs="tcp:114915:8"/>
+a generall ſenſe unto them all, for they were all filled with amazement, and ſome of them ſoon after were ſlaine:<note place="margin">Verſe 9.</note> but it did ſpecially belong to the King, who trembled exceedingly. And the Prophet made application of the thing home to the King himſelf before he comes to the full declaration of the meaning of the words, <hi>And thou his ſon, O Belſhazzar,</hi>
+               <note place="margin">Verſe 6. Verſes 18, 19, 20, 21, 22, 23</note> 
+               <hi>haſt not humbled thine heart, though thou kneweſt all this: But haſt lifted up thy ſelfe againſt the Lord of heaven, &amp;c.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>Eventus.</hi> The Event was the ſudden taking of the City of <hi>Babylon,</hi> and the ſlaying of King <hi>Belſhazzar,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Verſe 30, 31.</hi> Ioh. Funcii<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>. In Commenta. in Chronolog. lib. <hi>2.</hi>
+                  </p>
+                  <p>Anno Mundi <hi>3425.</hi>
+                  </p>
+               </note> and many of the Caldeans. <hi>Funcius</hi> ſets down the ſame after this man<g ref="char:EOLhyphen"/>ner: <hi>Cyrus</hi> finding <hi>Babylon</hi> ſo fortified, and the inhabitants having all things in a readineſſe to reſiſt their enemies, and therefore deriding and mocking his endeavours, he com<g ref="char:EOLhyphen"/>manded Trenches to be cut to receive or carry away the wa<g ref="char:EOLhyphen"/>ters of the great River <hi>Euphrates,</hi> which ran through that City; but leaſt the Babylonians ſhould perceive it, they left the earth whole next the River, untill all things were pre<g ref="char:EOLhyphen"/>pared, and the Babylonians did celebrate a Feſtivall day ac<g ref="char:EOLhyphen"/>cording to their old wonted manner, in which every one was given to feaſting, wine, or muſick, and neglected the watch of the walls: Then <hi>Cyrus</hi> taking that opportunity, comman<g ref="char:EOLhyphen"/>ded the prepared Trenches to be opened ſpeedily, for the re<g ref="char:EOLhyphen"/>ceiving the force of the River, and ſo the ſtreame being di<g ref="char:EOLhyphen"/>miniſhed, he brought his Army by the River <hi>Euphrates</hi> into the middle of the City; of the Babylonians, few durſt reſiſt them, and thoſe that did ſo were ſlain by <hi>Cyrus</hi> his Souldiers; the King of <hi>Babylon</hi> being in the Tower (which becauſe of the tumult in the City, was raſhly opened) there was he ſlain with all his guard, by <hi>Gobria</hi> and <hi>Gadata,</hi>
+               <note place="margin">Calvin. in Ier. <hi>51.31.</hi>
+               </note> Captains obliged by promiſe to <hi>Cyrus,</hi> who thus overcame all the power of the Babylonians. And this alſo was foretold to be done in this manner, <hi>Jer.</hi> 51.30, 31, 32.</p>
+            <p>Now I come to the words themſelves, which though they be but few, yet they containe much matter worth our meditation.<note place="margin">Tempus praete<g ref="char:EOLhyphen"/>ritum vitum, praeſens, ſuturum.</note> And as time is diſtinguiſhed into time paſt, time preſent, and time to come: So theſe three words, <hi>Mene,
+<pb n="6" facs="tcp:114915:9"/>
+Tekel, Upharſin,</hi> by their expoſition, do ſeeme to reſpect thoſe three parts of time: God hath numbred; Thou art weighed. The Kingdom ſhall be divided ſuddenly.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>Mene,</hi> is a Caldean word, although in the ſound it be like the Hebrew word <hi>Meneh,</hi> for this is written with an <hi>Aleph,</hi> the Hebrew word with an <hi>He,</hi> and ſignifieth to number,<note place="margin">Pſal. 90.12.</note> as <hi>ver.</hi> 26. So teach us to <hi>number</hi> our dayes, that we may apply our hearts unto wiſdome.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>Mene mene,</hi> the gemination and doubling of the word doth note the certainty of the thing; the dream was dou<g ref="char:EOLhyphen"/>bled unto <hi>Pharaoh</hi> twice,<note place="margin">Gen. 41.32.</note> as <hi>Joſeph</hi> told him, becauſe the thing is eſtabliſhed by God.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And ſomtimes it notes the excellencie of the thing, as <hi>peace peace,</hi>
+               <note place="margin">Iſa. 26.3.</note> in the Hebrew is very well rendred, <hi>perfect peace.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> In an Action, it noteth the exact manner of performance of it, for God numbreth ſo exactly, that he can ſet all a mans ſins in order before him,<note place="margin">Pſal. 50.21.</note> with all the circumſtances of time and place, what was firſt ſaid or done, and what next, &amp;c. Hee numbreth exactly the ſufferings of his people, and the cruelty of his own and their enemies,<note place="margin">Pſal. 56.8.</note> and they ſhall end together.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>Tekel</hi> is alſo a Caldean word, for the Radix of the He<g ref="char:EOLhyphen"/>brew word is <hi>tacan</hi> to <hi>weigh,</hi> Prov. 16.2. <hi>The Lord weigheth the ſpirits.</hi>
+            </p>
+            <p>
+               <note place="margin">Gen. 23.16.</note>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> It is a Metaphor borrowed from the cuſtome of men in taking money by weight, as <hi>Abraham</hi> did, either for want of coyned money,<note place="margin">Mat. 22.20, 21</note> which afterward they had; yea, I have ſeen a <hi>Shekel</hi> made in the time of <hi>Solomon</hi> K. in <hi>Jeruſalem,</hi> as the Hebrew ſuperſcription did import.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Or elſe for the more ſpeedy diſpatch, as they uſe to weigh the money in the Tower of <hi>London,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> as 2 <hi>King.</hi> 12.11. and they gave the money being told, or <hi>weighed,</hi> as it is in the Originall.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Or laſtly, to prevent deceitfull dealing, as we uſe to weigh gold, to ſee whether it will goe for currant pay, yea or no.</p>
+            <p>So it is meant here, God will exactly try every man;
+<pb n="7" facs="tcp:114915:9"/>
+and give to every man according to his wayes.<note place="margin">Jer. 17.10. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+            </p>
+            <p>
+               <hi>Upharſin,</hi> that is alſo a Caldean word, for the Hebrew Radix is <hi>Paraſh,</hi> and doth ſignifie to divide, and ſo to ſcat<g ref="char:EOLhyphen"/>ter and deſtroy; for to divide is the ready way to overcome:<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+and it doth alſo ſignifie to <hi>breake</hi> in <hi>pieces,</hi>
+               <note place="margin">Pſal. 55.9. Lam. 4.4. Mic. 3.3. Jer. 16.7. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Levit. 11.13.</note> as bread to be eaten, <hi>Iſa.</hi> 58.7. to deale or break thy bread to the hungry: It is ſome time tranſlated to <hi>teare;</hi> and ſo the fowle called the <hi>Oſſi. frage</hi> or <hi>Bone-breaker,</hi> is in Hebrew called <hi>Peres,</hi> be<g ref="char:EOLhyphen"/>cauſe by the ſtrength of her beak and tallons, ſhe doth break the bones of leſſer birds, ſo it is alſo uſed for the <hi>Claws,</hi> with which they teare them in pieces.<note place="margin">Zech. 11.16.</note>
+            </p>
+            <p>And thus you ſee briefly the meaning of the words.</p>
+            <q>Mene Mene, Tekel Upharſin.</q>
+            <p>The firſt of which belong unto God, <hi>Mene, God hath numbred thy Kingdom and finiſhed it.</hi>
+               <note place="margin">Verſe 26.</note>
+            </p>
+            <p>The ſecond to King <hi>Belſhazzar, Tekel, Thou art weighed in the ballance and art found wanting.</hi>
+               <note place="margin">Verſ 27.</note>
+            </p>
+            <p>The third to his Kingdom, <hi>Peres, Thy Kingdome is di<g ref="char:EOLhyphen"/>vided and given to the Medes' and Perſians.</hi>
+               <note place="margin">Verſe 28.</note>
+            </p>
+            <p>And they all containe uſefull leſſons for every one of us; as one ſaid long agoe, <hi>Lego Hiſtorias, ne fiam Hiſtoriam;</hi> And all that was written afore-time, was written for our learning,<note place="margin">Rom. 15.4.</note> that we through patience and comfort of the Scrip<g ref="char:EOLhyphen"/>tures might have hope.<note place="margin">1 Cor. 10.11.</note> And let wicked men, learn to beware by the fearfull examples of thoſe that were puniſhed in for<g ref="char:EOLhyphen"/>mer times.</p>
+            <p>From the words of the Text thus underſtood, wee may gather theſe three obſervations.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> That God doth exactly number the extent and continu<g ref="char:EOLhyphen"/>ance of every Kingdom.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> That the Lord ſtrictly obſerves the gravity and levity of every ſoule in the matters of God.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> That when prophane men are moſt ſinfully ſecure, then is dreadfull judgement moſt neere.</p>
+            <p>And firſt of the firſt Note.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> 
+               <hi>That God doth exactly number the extent and continuance of every Kingdom.</hi>
+            </p>
+            <p>
+               <pb n="8" facs="tcp:114915:10"/>The Text <hi>Mene Mene,</hi> he hath numbred, he hath num<g ref="char:EOLhyphen"/>bred, that is he hath certainly and exactly numbred; and the interpretation,<note place="margin">Verſe 26.</note> 
+               <hi>God hath numbred thy Kingdome,</hi> that is the Kingdome of the Caldeans, and finiſhed it; Shews us plainly, that God did number exactly the extent and continuance of that Kingdome.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> And as that, ſo he numbreth all other Kingdoms, therefore it is God that gives authoritie to Kings, <hi>By me Kings reigne, and Princes decree juſtice.</hi> Therefore he named ſome Kings long before they were borne.<note place="margin">Prov. 18.15. 1 King. 13.2. Iſai. 44.28.</note> As <hi>Joſiah</hi> above 300 yeares be<g ref="char:EOLhyphen"/>fore his birth, and <hi>Cyrus</hi> 179 yeares before he began to reigne.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> He numbers the extent of their Kingdomes too, therefore Iſrael might not provoke the Moabites nor the Ammonites, becauſe the Lord had given their lands to them,<note place="margin">Deut. 29.19. Judg. 11.15, 18.</note> Iſrael tooke none from them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> He numbers the time of their continuance, as 400 yeares to the Kings of <hi>Canaan.</hi> And 70 yeares for the Kingdome of <hi>Babylon.</hi>
+               <note place="margin">Gen. 15.13. Jer. 25.2. 1 Sam. 15.23, 26. Dan. 5.18, 19, 20, 21.</note> Yea, and it is.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> God onely that deprives Kings of their Royall dignitie,as <hi>Saul</hi> and <hi>Nebuchadnezzar.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> And (beloved) God doth not onely number to Kings their Kingdomes, but to every man the bounds of his ſeve<g ref="char:EOLhyphen"/>rall habitations, the time of his abode in this or another towne, the time of his ſtaying here and there as is very cleare<g ref="char:EOLhyphen"/>ly noted by the Apoſtle, <hi>And God hath made of one blood all nations of men,</hi>
+               <note place="margin">Act. 17.26. Pſal. 31.15. <hi>Terminus &amp; ſtatus vitae meae.</hi> Tremel.</note> 
+               <hi>for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitations. And my times</hi> (the terme and ſtate of my life) <hi>are in thy hand,</hi> ſaith <hi>David.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon. </seg>1</label> The firſt Reaſon is taken from Gods juſtice, when men <milestone type="tcpmilestone" unit="unspecified" n="1"/> or Kingdoms have filled up the number of their ſinnes to the full, then juſtice deſtroyes them, And therefore God limited the <hi>Beaſts</hi> power of acting, 42 moneths, and the Gentils tread<g ref="char:EOLhyphen"/>ing down the Citie ſo long alſo,<note place="margin">Gen. 15.16. Rev. 13.5. Rev. 11.2. Rev. 12.42.</note> and 30 dayes to a moneth; 42 moneths make juſt 1260 days, the time of the womans flight into the wilderneſſe. It ſhews us that God will ſuffer
+<pb n="9" facs="tcp:114915:10"/>
+the wicked ſo much and ſo long to rage, as ſhall make for the glory of his juſtice, and no more, nor no longer.<note place="margin">Pſal. 76.10.</note>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſecond Reaſon is taken from Gods mercie,<note place="margin">
+                  <hi>2</hi> Reaſon. Semil.</note> gracious goodneſſe, and fatherly care for all his people: As a loving maſter will many times let out farmes to thoſe that have been his diligent ſervants, but being tender over his owne Chil<g ref="char:EOLhyphen"/>dren, he will ſo order the leaſes of his ſervants that he will be ſure to provide comfortable habitations in due ſeaſon for all his Children; this is very plainly affirmed of the Lord.<note place="margin">Deut. 32, 8.</note> 
+               <hi>When the moſt High divided to the nations their inheritance, when he ſeparated the ſonnes of Adam, he ſet the bounds of the people according to the number of the children of Iſrael.</hi> As if he ſhould ſay, he did ſo ſet out the bounds of other people as he might be ſure to provide for every one of his a meet inheri<g ref="char:EOLhyphen"/>tance. And he renders the Reaſon;<note place="margin">Ver. 9. Rom. 8.32. Pſal. 84.11. Mat. 10.29, 30, 31. Pſal. 125.3.</note> 
+               <hi>For the Lords portion is his people, &amp;c.</hi> For God having given them Chriſt, he will give them all other things that are good for them. This argument Chriſt uſed, taken from Gods care for the ſparrows; then he will take much more care for his own people. He loves them too well to let the Rod of the wicked to lie alway on their backes.<note place="margin">Rev. 15.3. Pſal. 2.</note> For Chriſt the King of Saints ſhall break all his ene<g ref="char:EOLhyphen"/>mies in pieces, as earthen veſſells are broken with a rod of iron.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The firſt uſe ſhall be of Inſtruction, to cleare this to us that as God numbers to us his mercies and his judgements, and as all his dealing with us is by weight and number, ſo we alſo ſhould number the ſame too. And the numbring of Gods dealing out mercies and judgements is of two ſpeciall uſes to the poore ſoule.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> To ſtir up humilitie, by conſidering Gods mercies and our own unworthineſſe of them, as <hi>Jacob</hi> ſaid, <hi>Minor ſum,</hi>
+               <note place="margin">Gen. 32.10.</note> 
+               <hi>nullus ſum,</hi> I am leſſe then all thy favours.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> To ſtir up thankfulneſſe for the ſame, as <hi>David</hi> when he ſtirs up his ſoule effectually to thankfulneſſe, he ſaith, <hi>My ſoule praiſe the Lord, and all that is within me praiſe his holy Name, My ſoule praiſe the Lord and forget not all his benefits.</hi> As if he ſhould ſay, although thou forgetteſt many of them,
+<pb n="10" facs="tcp:114915:11"/>
+yet be ſure not to forget all of them. And then he reckons up diverſe of Gods mercies to himſelf, to his people generally, and to all the world univerſally; for as a late worthie Divine well obſerved,<note place="margin">
+                  <hi>M.</hi> Sam. Ward.</note> 
+               <hi>A foole cannot, a proud man will not be thank<g ref="char:EOLhyphen"/>full.</hi> For the one cannot reckon up Gods dealings with him, and the other will not acknowledge them (from the truth of his heart) to be free favours.</p>
+            <p>Therefore let us, I beſeech you, beloved, look back a little while upon the Nationall favours, judgements and warnings of this Kingdome onely, and that in this laſt <hi>Centurie</hi> of yeares; for as they ſay, <hi>Seculum Speculum,</hi> an Age is a look<g ref="char:EOLhyphen"/>ing-glaſſe wherein we may ſee Gods mercies, our own in<g ref="char:EOLhyphen"/>gratitude, his Chaſtiſements, our incorrigibleneſſe; and by his grace we may be made more humble, more thankfull and obedient to God,</p>
+            <p>I cannot largely repeat things (neither will the time give way thereunto,) as <hi>Moſes</hi> did in 4 Chapters toge<g ref="char:EOLhyphen"/>ther;<note place="margin">Deut. 1.2, 3, 4. Chapters.</note> I ſhall onely point at ſome things briefly; I pray be larger in your Meditation and application of them to your own ſoules,<note place="margin">Gen. 18.17, 18, 19. Pſal. 78.1, 2, 3, 4, 5, 6, 7, 8.</note> to your Children and ſervants, as it is the dutie of every godly parent, by vertue of a <hi>Statute Law in Iſrael, ordained by Jehovah himſelfe,</hi> and obeyed by all his people.</p>
+            <p>And the rather ſhall I make bold at this time, it being the hundreth yeare of <hi>Englands</hi> Reformation, and coming out of Popiſh captivitie and idolatry.</p>
+            <div type="part">
+               <pb n="11" facs="tcp:114915:11"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1547</label> KIng EDWARD the Sixth (the religious <hi>Joſi<g ref="char:EOLhyphen"/>ah</hi> of <hi>England</hi>) began to reigne,<note place="margin">M. <hi>Fox.</hi> Acts. &amp; Mon. Vol. 2. 651. &amp; 652. K. <hi>Edward</hi> the <hi>VI.</hi> his Injun<g ref="char:EOLhyphen"/>ctions printed July, 1547. Vol. 2. p 654. M. <hi>Hooper.</hi> Vol. 3. p. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>45. <hi>Iohn Alaſco.</hi> Vol. 3. p. 40.</note> being but nine years of age, and yet a gracious Gover<g ref="char:EOLhyphen"/>nour. And it is this moneth juſt a hundred yeares ſince he began Reformation, and to put down Idolatry, which did not a little cheare and revive the hearts of the godly in <hi>England,</hi> and many other came over to enjoy the liberty with them, of which ſome were our own country-men, before that time fled from perſe<g ref="char:EOLhyphen"/>cutors there, and ſome were godly people of other Nations.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1548</label> The ſame day and houre when the Images were burned openly in <hi>London,</hi>
+                  <note place="margin">Vol. 2. p. 669.</note> the Engliſh Proteſtants put the Scottiſh Papiſts with their Idol gods, altars and popiſh trinkets to the worſe, in <hi>Muſoleborough</hi> field: where, though the number of the <hi>Scots</hi> far exceeded ours, yet in that field were ſlain of them between 13 and 14 thouſand, and not above a hundred Engliſh men.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1549</label> The Rebels in <hi>Davonſhire,</hi>
+                  <note place="margin">Vol. 2. p. 666, 667, 668, 669.</note> requiring popery againe to be eſtabliſhed, were firſt by the King moſt lovingly and wiſely anſwered: and after, with their conſecrated god in whom they truſted, the <hi>Pax</hi> under his canopie riding in a cart (which they brought into the battell, with maſſes, croſſes, banners, candleſticks, holy bread and holy water plentie,) were they vanquiſhed, many being ſlaine, their chieftains and two prieſts taken, with their Idoll god and his trumpery about him.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1550</label> Reverend M<hi rend="sup">r</hi>. <hi>Hooper</hi> oppoſed certaine ceremonies,<note place="margin">Acts &amp; Mon. Vol 3 p. 145, 146, 147.</note>
+but was over-powred by the Arch Biſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury,</hi> although K. <hi>Edward,</hi> the Duke of <hi>Sommerſet,</hi> with others, and alſo the Earle of <hi>Warwick</hi> wrote to the Arch-Biſhop, deſiring he might be borne withall.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1552</label> The gracious and truly Noble Duke of <hi>Sommerſet,</hi>
+                  <note place="margin">Acts &amp; Mon. Vol. 2. p. 754.</note>
+the Kings Uncle, and Protector of his perſon, was exe<g ref="char:EOLhyphen"/>cuted.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1553</label> 
+                  <pb n="12" facs="tcp:114915:12"/>
+                  <note place="margin">Calviſius.</note>That famous King <hi>(lento veneno)</hi> departed out of this life, having reigned proſperouſly 6 yeares and 8 moneths.</p>
+               <p>
+                  <note place="margin">Acts &amp; Mon. Vol. 3. p. 13.</note>Lady <hi>Jane</hi> the Duke of <hi>Suffolke</hi> his daughter, was, by the Kings Teſtament and conſent of the Nobles, proclaimed Queen.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1553</label> 
+                  <note place="margin">Acts. &amp; Mon. Vol. 3. p. 15.</note>QUeen <hi>Mary</hi> by the help of the <hi>Suffolk</hi> Goſpel<g ref="char:EOLhyphen"/>lers, got the Crown, promiſing them not to al<g ref="char:EOLhyphen"/>ter the Religion then eſtabliſhed. Yet ſhee haſted to reſtore both Popery and the Popes power in <hi>England.</hi>
+                  <note place="margin">P. 16.</note> And then were the Saints of God perſecu<g ref="char:EOLhyphen"/>ted;<note place="margin">Vol. 3.</note> who as they had taught the Goſpel ſincerely, ſo did they hold it forth moſt clearely in the bright flames of fire. Many hundreds of Gods precious ſervants ſuffe<g ref="char:EOLhyphen"/>red death in her few and evill dayes.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1554</label> The eſtate both of the Church and Common<g ref="char:EOLhyphen"/>wealth,<label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1554</label> was further endangered by the marryage firſt concluded and after effected between <hi>Philip</hi> Prince of <hi>Spaine,</hi>
+                  <note place="margin">Acts &amp; Mon. Vol 3. p. 31.</note> and <hi>Mary</hi> Queen of <hi>England,</hi> which occa<g ref="char:EOLhyphen"/>ſioned <hi>Wyats</hi> conſpiracie, for which he was exe<g ref="char:EOLhyphen"/>cuted.</p>
+               <p>
+                  <note place="margin">P. 114, 115.</note>Much talke was there the ſame yeare that Queen <hi>Mary</hi> had conceived and was quick with childe, but it proved rather a conceit then a conception, for ſhee and they alſo were deceived,<note place="margin">P. 953.</note> although they were very confident thereof,<note place="margin">P. 114, 115, 116.</note> as by an Act of Parliament, their Prayers and proviſions for it did appeare.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1556</label> 
+                  <note place="margin">P. 953.</note>A great dearth was in <hi>England,</hi> ſo that many poore people were fain to feed of acornes for want of corn.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1558</label> 
+                  <note place="margin">P. 669. P. 953. P. 952. P 954.</note>Queen <hi>Mary</hi> loſt <hi>Calice,</hi> and being left deſolate by K. <hi>Philip</hi> her husband, in great griefe ſhe dyed, having reigned marvellous unproſperouſly five yeares and five moneths.</p>
+               <p>
+                  <note place="margin">P. 943. to P. 952. P. 704. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note>In which Maryan times, though many hundreds ſuffered for the Truth, yet diverſe God mercifully pre<g ref="char:EOLhyphen"/>ſerved, as the Lady <hi>Elizabeth,</hi> though in priſon; ſome
+<pb n="13" facs="tcp:114915:12"/>
+were hidden in their own houſes,<note place="margin">
+                     <hi>Martyres,</hi> or Witneſſes. Acts 1.8. <hi>Thom. Hubbard</hi> was my grand<g ref="char:EOLhyphen"/>father. Vol. 3. p. 1020. P. 920. Vol. 3. p 976. P. 979. Vol. 3 p. 954. to 963. D. <hi>Rainolds</hi> in Pſal. 8.47. &amp;c.</note> as the <hi>Mendleſham Martyrs,</hi> who oft-times openly profeſſed the truth, and ſome even miraculouſly were delivered from the fury of their perſecutors; as <hi>Laremouth, Croſmons</hi> wife, and many others.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1558</label> QUeen <hi>Elizabeth</hi> of famous memory, in the be<g ref="char:EOLhyphen"/>ginning of her reigne, reſtored the Reformati<g ref="char:EOLhyphen"/>on begun in King <hi>Edwards</hi> time, to the great joy of the godly, and Gods juſt judgements fell upon many malicious perſecutors.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1569</label>
+                  <hi>Norton</hi> or <hi>Moorton</hi> a Prieſt ſent from the <note n="*" place="margin">
+                     <hi>Vir:</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>pudoris.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>confuſionis,</hi> a man of ſhame and confuſion. <hi>In</hi> Pſal. 78.70. in Miniſters, Patrons and Biſhops. Letter to Mr. <hi>R.D.</hi> 24. <hi>Dec.</hi> His Preface to the Q Majeſty. <hi>Englands</hi> thankfull Re<g ref="char:EOLhyphen"/>membrance of Gods mercies.</note> 
+                  <hi>Iſh<g ref="char:EOLhyphen"/>boſheth</hi> of <hi>Rome,</hi> with his accurſed curſe, raiſed Re<g ref="char:EOLhyphen"/>bellion; and ſeduced the Duke of <hi>Northfolk,</hi> the Earls of <hi>Northumberland</hi> and <hi>Weſtmerland;</hi> the two for<g ref="char:EOLhyphen"/>mer were beheaded, and the other fled.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1573</label> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1569</label> M<hi rend="sup">r</hi>. <hi>Edward Deering</hi> preached before the Queens Majeſty, againſt many abuſes in the Church. And after was in the Queens name, forbidden to preach in her dominions.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1578</label> The Pope incited <hi>Don John</hi> of <hi>Auſtria,</hi> brother to the K. of <hi>Spaine,</hi> who proclaimed perpetuall peace to <hi>England,</hi> but intended to captivate the Kingdom, and failing thereof dyed with griefe.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1578</label> Pope <hi>Gregorie</hi> the 13 and the K. of <hi>Spain,</hi> conſpire to raiſe rebellion in <hi>Ireland</hi> by meanes of <hi>Thomas Stuckley</hi> an Engliſh man, giving him a holy peacocks taile: but <hi>Thomas Stuckley</hi> was ſlaine at the battell at <hi>Alcazor.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1579</label>
+                  <hi>Nicolas Sanders</hi> prieſt ſtirs up the Earle of <hi>Deſmond,</hi> with a conſecrated banner from <hi>Rome</hi> to make rebel<g ref="char:EOLhyphen"/>lious warre in <hi>Ireland:</hi> the Earle was ſlaine by a Com<g ref="char:EOLhyphen"/>mon ſouldier, and <hi>Sanders</hi> ran mad.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1579</label>
+                  <hi>England</hi> was admoniſhid by a terrible <hi>Earthquake,</hi> one of the Sanctions uſed at the giving the Morall Commandements.<note place="margin">
+                     <hi>Aprill</hi> 6.</note>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1580</label>
+                  <hi>Parſons</hi> and <hi>Campion,</hi> Engliſh Traitors,<note place="margin">Deut. 19.18.</note> and Romiſh
+<pb n="14" facs="tcp:114915:13"/>
+Jeſuits, walking about to withdraw ſubjects from loyal<g ref="char:EOLhyphen"/>ty, ſometime like Ruffians, ſomtime like Miniſters, ſome<g ref="char:EOLhyphen"/>time like Noble men.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1581</label> 
+                  <hi>Campion</hi> was taken and hanged at <hi>Tiburn,</hi> but <hi>Parſons</hi> fled.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1583</label> 
+                  <hi>Summervil,</hi> an Engliſh gentleman, was ſeduced to kill the <hi>Queen,</hi> which he attempted deſperately: but was hindered and caſt into priſon, where he ſtrangled himſelf.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1584</label> 
+                  <hi>Mendoza</hi> the Spaniſh Embaſſador did work trea<g ref="char:EOLhyphen"/>ſon with <hi>Throgmorton:</hi> but <hi>Mendoza</hi> was baniſhed, and carried in each hand a paper, in the one were writ<g ref="char:EOLhyphen"/>ten the Names of ſuch Lords here as ſtood affected to the Pope: in the other the Havens and Creeks in <hi>England,</hi> and <hi>Throgmorton</hi> was hanged and quar<g ref="char:EOLhyphen"/>tered.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1585</label> 
+                  <hi>Chreighton</hi> a Scottiſh Jeſuit, being taken at ſea by Dutch pyrates, having traiterous letters concerning <hi>England,</hi> threw them over-board torne in pieces, but the winde brought them aboard againe, and Sir <hi>Willi<g ref="char:EOLhyphen"/>am Wade</hi> plated them together; And found out their plot and diſcovered it.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1586</label> 
+                  <note place="margin">Doct. <hi>Rainolds</hi> in Pſal. 18.47. &amp;c. p. 14.</note>
+                  <hi>William Parry</hi> the proud miſcreant, being reſolute to worke his devilliſh vow, the Pope incenſing him with allowance of the fact and plenary pardon of his ſins, having an opportunitie did come with his dagger pur<g ref="char:EOLhyphen"/>poſely to kill the Queene: but being ſtricken with her looks of Majeſty, he trembled, was taken and executed.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1586</label> 
+                  <hi>Ballard, Savage, Techburne, Traverſe, Babington, Gage, Tilney, Charnock, Dunn, Jones, Barnwell, Abington, Saliſbury</hi> and <hi>Windſor,</hi> conſulted treaſon in <hi>Giles</hi> fields by <hi>London:</hi> but were diſcovered, and in thoſe fields were executed.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1586</label> 
+                  <hi>Rouland Yorke,</hi> and Sir <hi>William Stanley</hi> turned Traitors.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1587</label> 
+                  <hi>William Stafford</hi> an Engliſh gentleman, was per<g ref="char:EOLhyphen"/>ſwaded by the French Embaſſador, to kill the Queene
+<pb n="15" facs="tcp:114915:13"/>
+as himſelf declared to the Counſell: but the Ambaſſa<g ref="char:EOLhyphen"/>dor denied it.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1588</label> The Spainſh Fleet,<note place="margin">Octogeſſimus octavus mira<g ref="char:EOLhyphen"/>bilis annus, Clade Papiſta<g ref="char:EOLhyphen"/>ram, fauſtus ubique piis. <hi>Acts &amp; Mon. A Continuati<g ref="char:EOLhyphen"/>on, &amp;c. added to the third Vol. Printed</hi> London, <hi>1632. p. 76. to 83.</hi> M. Iohn Carter <hi>of</hi> Belſted. <hi>Theod. Beza.</hi> Quàm bene te, Ambitio, merſit vaniſſima ver<g ref="char:EOLhyphen"/>tus? Et tumidae tu<g ref="char:EOLhyphen"/>midos vos ſupe<g ref="char:EOLhyphen"/>raſtis aquae! Quàm bene rep<g ref="char:EOLhyphen"/>tores orbis to<g ref="char:EOLhyphen"/>tius Iberos, Merſit in ex<g ref="char:EOLhyphen"/>hauſti juſta vo<g ref="char:EOLhyphen"/>rago maris! in <hi>Revel. 3. V. 15, 16, 17.</hi>
+                  </note> called by the Pope <hi>The Invin<g ref="char:EOLhyphen"/>cible Navie,</hi> conſiſting of ſhips, gallies, gallions and pinnaces to the number of 242, in them were ſouldiers, mariners and galliſlaves 31030. And great ordnance 11630, Came againſt <hi>England</hi> to captivate the ſame, and our Fleet being 120 veſſells, the Camp at <hi>Tilbury</hi> 22000 foot and 1200 horſe: In France <hi>Mendoza</hi> Men<g ref="char:EOLhyphen"/>daciouſly made ſongs of triumph, as if the Spaniards had gotten the victory: but they were ſoone fruſtrated of their vaine expectation: of Engliſh men there were not a hundred loſt, and but one ſhip of ours: whereas many hundred (if not many thouſands) of the Spani<g ref="char:EOLhyphen"/>ards were ſlaine; for they loſt neere two hundred veſ<g ref="char:EOLhyphen"/>ſells, and as I heard the late reverend Miniſter of his town ſay, <hi>They ſhot not one bullet unto the Engliſh ſhoare;</hi> Thus did our <hi>Jehovah</hi> pay his enemies in kind, and overthrow their ſwelling mindes puffed up with pride, with ſwelling waves and puffes of winde, for which our Royall Queen <hi>Elizabeth</hi> gave publike thankes to God.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1589</label>
+                  <hi>Lopez,</hi> a Jew by deſcent, a Portugall by birth, a doctor of Phyſick and the Queens Phyſitian, promi<g ref="char:EOLhyphen"/>ſed the Spaniards to poyſon the Queen: but being found out, he was executed.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1590</label> Maſter <hi>Brightman</hi> did write againſt the proud prelacie and beggariy ceremonies; and fore-telleth their extirpation.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1597</label>
+                  <hi>Tyrone</hi> an Iriſh Earle rebelliouſly raiſed warre in <hi>Ireland,</hi>
+                  <note place="margin">Acts &amp; Mon. Vol. 2. p. 333. <hi>Nata</hi> Sept. 7. 1533. <hi>Moriturque</hi> Martii 24. 1603. Calv.</note> and put this Kingdome to much coſt and trou<g ref="char:EOLhyphen"/>ble, and then fled.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1603</label> So the Lord alone preſerved the gracious Queen <hi>Elizabeth</hi> of famous memory, notwithſtanding theſe 15 rebellions and treaſons conſpired againſt her: and ſhe dyed in peace, being about ſeventy yeares of age, when ſhe had reigned 44 yeares and foure moneths.</p>
+               <p>
+                  <pb n="16" facs="tcp:114915:14"/>
+                  <note place="margin">Sir <hi>Fr. Dracus in Anno</hi> 1577. 1578. 1579. 1580. Cap. <hi>Thomas Candiſh in An.</hi> 1586. 1587. 1588.</note>In the time of her reigne Sir <hi>Francis Drake,</hi> and alſo Capt. <hi>Thomas Candiſh,</hi> ſailed round about the world, to the laſting honour of her Majeſty and of this Kingdome.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1603</label> KIng JAMES, the moſt peaceable Ruler of great <hi>Britaine,</hi> began to reigne over <hi>England,</hi> and continued the ſame Reformation before ſetled.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1603</label> The Lord admoniſhed this land by the great Plague at <hi>London,</hi> whereof (as <note n="*" place="margin">A Song of Thankſgiving for Gods won<g ref="char:EOLhyphen"/>derfull works, never to be forgotten, 1588. 1603. 1605. Printed 1625. Acts &amp; Mon. A Continuati<g ref="char:EOLhyphen"/>on, added to the 3 Volume Printed at <hi>London,</hi> 1632. pag 86. to 96. <hi>Fauſta &amp; feſta dies, lux aurea, quinta Novem<g ref="char:EOLhyphen"/>bris.</hi>
+                  </note> ſome write) there dyed 34079 in three moneths, in one weeke 3385.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1603</label> 
+                  <hi>Watſon</hi> and <hi>Clarke,</hi> two popiſh prieſts, ſeduced Lord <hi>Cobham,</hi> Lord <hi>Grey,</hi> Sir <hi>Walter Rawleigh,</hi> and ſome other, to impriſon the King: who yet pardoned thoſe that were ſo ſeduced.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1605</label> The helliſh <hi>Gun-Powder treaſon,</hi> which no doubt was deviſed by the Devill, but acted by a company of popiſh catholikes, <hi>Robert Cateſbie, Robert Winter Eſquires, Thomas Percy, Thomas Winter, John Wright, Chriſtopher Wright, Guido Fawkes</hi> gentlemen, and <hi>Bates Cateſbies</hi> man, were firſt in the Treaſon and laboured in the Myne: <hi>Everard Digby</hi> Knight, <hi>Ambroſe Rookewood, Francis Treſham,</hi> Eſquires; <hi>John Grant</hi> gentleman, and <hi>Robert Keyes,</hi> were acquainted with it, though nor perſonally labouring in the Myne, nor in the Cellar. Theſe traitors intended to have blown up the King, Queene, Prince, the Lords and Commons in Parliament aſſembled, and then <note n="*" place="margin">A Song of Thankſgiving.</note> they meant to lay that horrid fact to the charge of the Puritans, and ſo to have taken up ſome pretence to have rooted out, if poſ<g ref="char:EOLhyphen"/>ſibly they could, all the true profeſſors of Chriſt, and to eſtabliſh popery in this Kingdome. But our good God over-ruled them, ſo that by their owne letter, with the Kings Majeſtie's moſt wiſe conſtruction, his faithfull Counſells diligent and diſcreet inquiſition, was it diſ<g ref="char:EOLhyphen"/>covered, although they tooke the Sacrament of ſecrecy, and the time was neere for the performance thereof;
+<pb n="17" facs="tcp:114915:14"/>
+Thus was our great danger by our gracious <hi>Jeho<g ref="char:EOLhyphen"/>vah</hi> prevented,<note place="margin">
+                     <hi>An.</hi> 3. Jacob. <hi>Regis, Act. Parl.</hi> In a Prayer &amp; Thankſgiving appointed for <hi>Novemb.</hi> 5.</note> and their own by themſelves pro<g ref="char:EOLhyphen"/>cured, the remembrance whereof we ought with all thankfullneſſe in ſolemne manner to Celebrate, to Gods praiſe, every fifth day of <hi>November.</hi> And entreat we the Lord to root out that Babyloniſh and Anti<g ref="char:EOLhyphen"/>chriſtian ſect, whoſe <hi>Religion</hi> is <hi>Rebellion,</hi> whoſe <hi>Faith</hi> is <hi>Faction,</hi> whoſe <hi>Practice</hi> is <hi>murthering of ſouls &amp; bodies.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1612</label> Prince <hi>Henry,</hi> that Royall and hopefull branch, de<g ref="char:EOLhyphen"/>parted out of this life.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1613</label> Maſter <hi>Randall Bates,</hi> a reverend Preacher, dyed in priſon, having lyen in the Gate-houſe about twenty moneths, onely for oppoſing the Lordly Prelacy, and the ceremonies then uſed in the Church.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1623</label> Our preſent Soveraign Lord King CHARLES (then being Prince) went into <hi>Spain;</hi> and returned ſafe, for which we ought to praiſe the Lord.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1623</label>
+                  <hi>Drury</hi> a Prieſt (who drew the people <hi>awry</hi> indeed) being at Maſſe in the Black-fryers at <hi>London,</hi>
+                  <note place="margin">Dru (aw) ry. <hi>In</hi> Roman <hi>Ac<g ref="char:EOLhyphen"/>count.</hi> Nov. <hi>5.</hi> Occidit una do<g ref="char:EOLhyphen"/>mus, ſed non domus una pe<g ref="char:EOLhyphen"/>rire digna fuit.</note> and much people of high degree, and others being there, the chamber fell down, ſlew the Prieſt himſelfe, and many of thoſe that were hearing him, and maymed o<g ref="char:EOLhyphen"/>thers. A faire warning to all that neglect the means of grace, (doubtleſſe many houſes or houſholds have deſerved the ſame puniſhment,) as alſo it is a ſure pre<g ref="char:EOLhyphen"/>ſage of the downfall of Popery,</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1625</label> King <hi>Iames,</hi> of bleſſed memory, departed in peace, having reigned in great tranquility, in <hi>England,</hi> two and twenty yeares; and in <hi>Scotland,</hi> about 58 yeares.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1625</label> KIng CHARLES, our moſt gracious Sove<g ref="char:EOLhyphen"/>raign Lord, began to Reign over <hi>Great Brit<g ref="char:EOLhyphen"/>tain,</hi> and continued the Reformation before e<g ref="char:EOLhyphen"/>ſtabliſhed, except that by degrees it did degenerate, and the prelacie laded us with more Popiſh innovati<g ref="char:EOLhyphen"/>ons, or at leaſt, the ſame burthen bound more ſtreightly upon us.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1628</label> 
+                  <pb n="18" facs="tcp:114915:15"/>God from heaven gave warning to this Nation by a Sight in the aire, which many ſaw; being a lively repreſentation of <hi>Warres,</hi> towards the <hi>North,</hi> and after <hi>a round Church</hi> appeared: which when I ſaw, I did even then conceive, and ſay, that which ſince I have obſerved to be in a great meaſure fulfilled, <hi>vide<g ref="char:EOLhyphen"/>licet;</hi> That there would be terrible wars, I feared, in this my Deare Native Countrey, but in the concluſi<g ref="char:EOLhyphen"/>on, the Church ſhould be reformed more and more, and not ſo deformed by conforming to the Orders, or rather diſorders then practized.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1630</label> The plague was at <hi>Cambridge,</hi> which forced the <hi>Students of that ancient and famous Univerſitie</hi> (my ſelf being at that time one of them,) to a long diſcon<g ref="char:EOLhyphen"/>tinuance: and in diverſe reſpects it was a great afflicti<g ref="char:EOLhyphen"/>on to moſt parts of this Kingdome, (if not to all,) and therefore not to be forgotten by us.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1639</label> The Biſhops endeavouring to eſtabliſh <hi>Epiſcopacy</hi> in <hi>Scotland,</hi> there was great danger of engaging <hi>England</hi> in a warre againſt our brethren in <hi>Scotland,</hi> which it alſo pleaſed God to prevent, ſhewing much mercie to us and them.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1639</label> About which time <hi>Sixtie ſix Spaniſh ſhips</hi> lay neere to <hi>Dover,</hi> for what end I know not; it was feared they came for no good: but they were fought with by <hi>Se<g ref="char:EOLhyphen"/>ven Holland ſhips</hi> at firſt, and after there came in to helpe thoſe 7, ſeventeen more of them; And among them all, in a ſhort time, about 2000 men were ſlain, and we but Spectators onely of that tragoedie.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1640</label> The Lordly Prelates to ſtrengthen their own King<g ref="char:EOLhyphen"/>dome here, increaſed the number of popiſh Ceremo<g ref="char:EOLhyphen"/>nies, and enjoyned them by <hi>New Canons,</hi> and over<g ref="char:EOLhyphen"/>charged them with an <hi>Odious Oath,</hi> which ſhortly after in their diſcharge ruined themſelves. <hi>The Lord is known by the judgement he executeth:</hi>
+                  <note place="margin">O quanta veri<g ref="char:EOLhyphen"/>tatis potentia! <hi>Pſal. 9.16.</hi>
+                  </note> 
+                  <hi>the wicked is ſnared in the work of his own hands; Higgaion, Selah!</hi> or <hi>Medit andum Selah!</hi> So let all thine enemies periſh O God.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1640</label> 
+                  <pb n="19" facs="tcp:114915:15"/> This preſent Parliament began, as the fruit of many prayers;<note place="margin">T. H.</note> for when the people of God in this land were full of feares and troubles, their hearts failing them, and they ready to ſay, <hi>What ſhall we doe? whither ſhall we flee?</hi> The Lord gave to them the <hi>Spirit</hi> of ſup<g ref="char:EOLhyphen"/>plication abundantly, and indeed ſhewed himſelf to be, <hi>The God that heareth prayer,</hi> by giving a Parlia<g ref="char:EOLhyphen"/>ment, and ſuch ſuccesfull beginnings thereunto, as opened a fountaine in this <hi>Jawbone,</hi> to revive the faint<g ref="char:EOLhyphen"/>ing Church of his here.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1641</label> The <hi>Proteſtation</hi> was taken all this Kingdome over.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1642</label> The late lamentable <hi>Warres began,</hi> yet God was good to us in diſcovering and preventing many ſecret treacheries, and aſſiſting us in great difficulties.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1643</label> The <hi>Covenant</hi> was taken, wherein we all lifted up our hands to the <hi>moſt high God,</hi> that we will endea<g ref="char:EOLhyphen"/>vour the <hi>Reformation</hi> of the <hi>Church according to Gods Word, the extirpation of Popery, Prelacy, Superſtition, Hereſie, Schiſme and Prophaneneſſe, and each one to go before another in the example of a reall reformation.</hi>
+               </p>
+               <p>And many ſuperſtitious reliques were aboliſhed, which neither we nor our godly fathers (as ye have heard) were able to beare. Since which time, ye know, many Witches have been diſcovered by their own confeſſions, and executed;<note place="margin">
+                     <hi>Englands</hi> Re<g ref="char:EOLhyphen"/>membrancer. from June 13, to Feb. 4. 1645.</note> Many glorious victories obtained (beyond any mans expectation) and places of ſtrength yielded, above ſeventy in eight moneths ſpace: <hi>This is none other but the Lord himſelfe hath done it.</hi> For when our enemies ſometime ſaid, <hi>They have nothing to help themſelves with but prayer;</hi> It ſeemed fully ſufficient, or rather, <hi>the Lord</hi> who was prayed unto.<note place="margin">S. B.</note> As one (that doubtleſſe is now with God,) wrote to me being abſent, <hi>Then, then in due ſeaſon, when Gods people had nothing to leane to but a God alone in Chriſt: but why ſhould I ſay nothing, when they had an All-ſufficient God to goe unto, and it proved all in all unto them?</hi> And this is to be admired as the
+<pb n="20" facs="tcp:114915:16"/>
+wonderfull goodneſſe of God, that the life of our <hi>Moſt gracious Soveraigne Lord the King,</hi> hath been all this War moſt mercifully preſerved. O that we were in ſome ſutable meaſure thankfull to God above for the ſame.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">An. Chriſti </seg>1647</label> And now that, through the mercie of God, we are come to a ceſſation of the Warre, <hi>Jehovah</hi> of <hi>Armies</hi> give us a timely, compleat, and comfortable concluſion of the ſame, for his infinite mercie ſake in Chriſt.</p>
+               <p>In this briefe <hi>Relation</hi> (Beloved) I have ſaid little of the latter times, as hoping they are freſher in your own memories, and eaſier to make uſe of.</p>
+               <p>And obſerve I pray you, Many have been our pro<g ref="char:EOLhyphen"/>voking rebellions, Many have been the dangerous de<g ref="char:EOLhyphen"/>ſtructive deſignes of our enemies, Many have been Gods preventing mercies and gracious deliverances, Many his fatherly chaſtiſements and moſt loving warnings and admonitions, and yet <hi>We, We</hi> (I ſay) revolting from God almoſt by a perpetuall back<g ref="char:EOLhyphen"/>ſliding.</p>
+               <p>You may alſo ſee in this ſhort <hi>Commemoration, Truth</hi> ſtriving in ſome of Gods Saints for power againſt <hi>Ce<g ref="char:EOLhyphen"/>remonies,</hi> and yet oppreſſed. Annex we, to thoſe few before mentioned, the many we have read, or heard of, or known in our times: And then we may well admire Gods goodneſſe to us, and bleſſe his <hi>Name</hi> that he hath ſhewed us ſome reviving, and at the preſent hath given us eaſe from ſuch ſnares of <hi>Conſcience,</hi> and ſuch hopefull beginnings of Reformation, and let us beſeech him to perfect the ſame according to the <hi>patterne</hi> ſhewed to us in his holy word.</p>
+               <p>
+                  <pb n="21" facs="tcp:114915:16"/>And now <hi>England, England,</hi>
+                  <note place="margin">Deut. 10.12.</note> what doth the Lord thy God require of thee, but to feare the Lord thy God, to walke in all his wayes, and to love him, and to ſerve the Lord thy God with all thy heart and with all thy ſoul.<note place="margin">Deut. 32.29.</note> O that we were wiſe, and underſtood this, and that we would conſider our latter end!<note place="margin">Pſal. 116.12.</note> Let us every one ſtudy a <hi>Quid rependerem Jehovae!</hi> Make vowes and pay them unto God.<note place="margin">Pſal. 50 14.</note> Offer unto God thankſgiving, and pay thy vows unto the moſt <hi>High.</hi> But take heed of making vows and not paying them.<note place="margin">Eccleſ. 5.2.4.5</note> For better it is, not to vow, then that thou ſhouldeſt vow and not pay.</p>
+               <p>Here you are to underſtand.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> God numbers all the gracious Kings and Magiſtrates he hath ſet over us, and all his faithfull ſervants, the Miniſters that inſtruct us. <hi>I ſent before thee Moſes,</hi>
+                  <note place="margin">Micah 6.4. Jer. 44.4.</note> 
+                  <hi>Aaron and Miri<g ref="char:EOLhyphen"/>am, and all my ſervants the Prophets.</hi> I think verily, never did any Kingdome enjoy ſo many, ſuch faithfull, painfull and powerfull Preachers of Gods word in any one age,<note place="margin">Acts &amp; Mon. Vol. 3. M. <hi>Prynne</hi> his Catalogue in Anti-Armin.</note> as this Kingdome hath enjoyed in this age, (now the Lord our God adde unto them an hundred fold:) But he will call us to an accout, what uſe we have made of all the endeavours and labours of our godly Kings and Magiſtrates, and of our faithfull Miniſters.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> God numbers all the mercies he beſtows upon us, and all the judgements and warnings that he gives us, as to the Iſraelites he reckons up their <hi>Manna, quatles, and water too.</hi>
+                  <note place="margin">Pſal. 78.23, 24, 25, 26, 27, 28, 29. Amos 4.6, 7, 8, 9, 10, 11.</note>
+And in another Prophet, the ſeverall judgements, as the fa<g ref="char:EOLhyphen"/>mine, by want of raine, by blaſting and mildew, the peſti<g ref="char:EOLhyphen"/>lence, warre and <hi>Sodom</hi> like overthrows.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> God numbers our ingratitudes for favours, and our evill requitals of them, and our miſ-improving his judgements.<note place="margin">Pſal. 78.31, 32.</note> How often doth he repeat this ſharpe reprehenſion, <hi>yet have ye not returned unto me, ſayth the Lord.</hi> Yea,<note place="margin">
+                     <hi>Amos.</hi> 4.6, 8, 8, 10, 11.</note> he numbers all our hypocriſies in our turnings to him too, and that is moſt odious unto God. <hi>When hee ſlue them,</hi>
+                  <note place="margin">Pſal 78 34.35, 36.</note> 
+                  <hi>then they ſought him, and they returned and enquired early after God. And they remembred that God was their Rock, and the high
+<pb n="22" facs="tcp:114915:17"/>
+God their redeemer. Nevertheleſſe</hi> (ſayth he) <hi>they did but flatter him with their mouth, and lyed unto him with their tongues; for their heart was not right with him, neither were they ſtedfaſt in his Covenant.</hi>
+                  <note place="margin">Pſal. 78.37.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> God numbers the ſpeciall and ſutable opportunities, that he hath given unto us for turning to himſelfe, and alſo our neglects of the ſame.<note place="margin">Revel. 2.21, 22</note> And <hi>I gave her ſpace to repent of her fornication, and ſhee repented not;</hi> Behold, I will caſt her into a bed; and them that commit adultery with her, into great tribulation. And it ſhall come to paſſe at <hi>that time,</hi> that I will ſearch <hi>Jeruſalem</hi> with candles, and puniſh the men that are ſetled on their lees,<note place="margin">Calv. Chron. <hi>An. Mundi.</hi> 3325. Zephan. 1.1. 2 Chron. 34.8. &amp; 35.18, 19.</note> or their old corruptions, at <hi>that time:</hi> at what time was that? Truly the time of a thorow Refor<g ref="char:EOLhyphen"/>mation, as may appeare plainly by comparing the time of <hi>Zephania</hi> his prophecying, and his prophecie together.</p>
+               <p>As for particular perſons, let every one of us conſider with his own ſelfe.</p>
+               <p>
+                  <note place="margin">Jer. 29.7.</note>Is not my peace wrapt up in the peace of the Kingdom I live in? And was not my life preſerved in the lives of my parents,<note place="margin">Gen. 44.30.</note> more properly then the life of the parent is bound up in the childes life?<note place="margin">2 Cor. 7.10.</note> which yet is moſt true; as the comforta<g ref="char:EOLhyphen"/>ble life, or as inordinate ſorrow for them, tend to temporall death.</p>
+               <p>Again let every one conſider,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The generall mercies of God unto mankinde, to give us all things for our comfortable ſubſiſtance,<note place="margin">Pſal. 8.</note> as all the creatures here below; the birds, beaſts and fiſhes, to loſe their lives, for the preſervation of ours. And that he ſhould make ſuch vaſt glorious bodies, as the <hi>Sun, Moon,</hi> and <hi>Stars,</hi> in ſuch an excellent order waiting upon me:<note place="margin">Quid eſt morta<g ref="char:EOLhyphen"/>lis, ut memor ſis ejus? <hi>Tremel.</hi> Ainſworth. <hi>Pſal. 107.</hi>
+                  </note> how ſhould I then break forth into an holy and humble admiration, <hi>What is ſorry man that thou remembreſt him, and the ſon of Adam that thou viſiteſt him?</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> The particular mercies of God to my ſelfe, or any of my family; as in preſerving me, or any one of mine, in dangerous travels by land, or on the ſea, or from the cruelty of oppreſſors, or from the gates of death, by reaſon of ſome ſharpe ſick<g ref="char:EOLhyphen"/>neſſe,
+<pb n="23" facs="tcp:114915:17"/>
+when we have received the ſentence of death in our own or other mens apprehenſions;<note place="margin">Pſal 31.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> how ſhould we ſay with the Prophet, <hi>my times are in thy hand,</hi> with all the ſeverall changes of my condition, and give to God onely all the glory!</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The ſpeciall mercies of God to my poore ſoule,<note place="margin">Epheſ. 2.3. Pſal. 103.1, 3, 4, 5.</note> as his love to me, (a poore wretch by nature) in and through Chriſt Jeſus, forgiving all my ſins, healing all my diſeaſes, crowning me with loving kindneſſe and tender mercies, and ſatisfying my mouth with good things. Now he that is wiſe will be wiſe for himſelfe, and will obſerve theſe things; <hi>even ſuch ſhall underſtand the loving kindneſſe of the Lord.</hi>
+                  <note place="margin">Prov. 9.12. Pſal. 107.45. Pſal, 107.1, 2.</note> 
+                  <hi>O give thanks unto the Lord, for he is good, for his mercie endureth for ever; Let the redeemed of the Lord ſay ſo,</hi> for of all men in the world they have moſt cauſe to know and ac<g ref="char:EOLhyphen"/>knowledge the ſame.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>2</label> The next Uſe, is a Uſe of Exhortatio<g ref="char:cmbAbbrStroke">̄</g> to us all,<note place="margin">Col. 1.10, 11.</note> to walk wor<g ref="char:EOLhyphen"/>thy of theſe mercies, liberties &amp; opportunities that we enjoy, and to be fruitfull in every good work, and increaſing in the knowledge of God, ſtrengthened with all might according to his glorious power, unto all patience and long-ſuffering with joyfulneſſe; walk humbly with thy God, <hi>do juſtly,</hi>
+                  <note place="margin">Micah 6.8.</note> 
+                  <hi>love mercie, walk before the Lord in the land of the living.</hi>
+               </p>
+               <p>Now eſpecially having ſuch an opportunitie,<note place="margin">Ezek. 18.34.</note> while God calls for Reformation, Caſt away from you all your tranſ<g ref="char:EOLhyphen"/>greſſions, whereby ye have tranſgreſſed, and make you a new heart and a new ſpirit, Or beg earneſtly of God,<note place="margin">Pſal. 51.10. Luke 11.13.</note> 
+                  <hi>to create in you a cleane heart, and to give you his holy Spirit; Why will ye dy O houſe of Iſrael?</hi>
+               </p>
+               <p>Now, now I ſay, while thoſe in authority do alſo call for Reformation,<note place="margin">Prov. 17.16.</note> why ſhould we be ſo fooliſh not to lay hold of a price thus put into our hands? The Apoſtle ſayth,<note place="margin">Gal. 6.10.</note> as wee have therefore <hi>Opportunity,</hi> or a <hi>ſeaſon</hi> (for ſo the ſame word is tranſlated in the verſe going before it) let us doe good,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Gal. 6.9.</note> redeeme we therefore the <hi>opportunity</hi> or <hi>ſeaſon,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Epheſ. 5.15, 16</note> by double diligence, walking circumſpectly, not as fooles but as wiſe.</p>
+               <p>
+                  <pb n="24" facs="tcp:114915:18"/>Let me ſtir up My ſelfe and You hereunto, with theſe three Motives.</p>
+               <p>
+                  <note place="margin">1 <hi>Motive.</hi> Acts &amp; Mon. Vol. 3. p. 168. John 8.56. Acts &amp; Mon. Vol. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. p. 367. Acts &amp; Mon. Vol. 3. p. 877. &amp; 878.</note>Our godly parents by faith foreſaw and longed for theſe <milestone type="tcpmilestone" unit="unspecified" n="1"/> times, and rejoyced that we their poſterity ſhould enjoy them. As Chriſt told the Jews, <hi>Your Father Abraham ſaw my day and rejoyced;</hi> did they pray for this opportunity, as for a great mercie, and did they rejoyce in the expectati<g ref="char:EOLhyphen"/>on of it, and are we entered into the poſſeſſion of the fruits of their prayers, and of the harveſt of their endeavours, and doe not we make uſe of this ſeaſon, nor rejoyce in it? How ſhall we anſwer God or our Parents at the day of judge<g ref="char:EOLhyphen"/>ment? Will not they then be aſhamed of ſuch Children as we?<note place="margin">2 Pet. 3.11.</note> do but thinke what manner of perſons they expect we ſhould be.</p>
+               <p>
+                  <note place="margin">
+                     <hi>2</hi> Motive. Covenant.</note>Another Motive may be drawn from the Covenant; we <milestone type="tcpmilestone" unit="unspecified" n="2"/> have lifted up our hands to the <hi>moſt high God,</hi> and engaged our ſelves to goe each before others in a reall Reformation. Beware that be not verified of us, which was ſaid of Iſrael, <hi>They have ſpoken words, ſwearing falſely in making a Cove<g ref="char:EOLhyphen"/>nant:</hi>
+                  <note place="margin">Hoſea 10.4. John 5.45. Mal. 3.5. M. <hi>Tho. Caſe</hi> in his Epiſtle be<g ref="char:EOLhyphen"/>fore Quar. Co<g ref="char:EOLhyphen"/>venant. Levit. 26.25.</note> for then Chriſt, in whom we ſay we believe, he, I ſay, himſelfe <hi>will be a ſwift witneſſe againſt the falſe ſwearers.</hi> And, as a worthy Labourer in the Lords harveſt lately wrote; <q>If God be dallyed withall in this <hi>Covenant,</hi> I tremble to thinke what will become of us; It is the ſtrongeſt Phyſick that ever the Kingdom tooke; and I am almoſt confident (ſaith he) That as in the publike <hi>State it wil either put a pe<g ref="char:EOLhyphen"/>riod to our diſtempers,</hi> or to our <hi>being;</hi> ſo in thy perſonall condition, it will either <hi>blaſt</hi> thy <hi>luſts,</hi> or <hi>ſtay thy ſoule.</hi> My reaſon is, becauſe God is engaged. If we be found con<g ref="char:EOLhyphen"/>ſcientious of this Covenant, he is engaged to us againſt our enemies without, and our luſts within, and they ſhall not be able to ſtand upon us. If after ſo ſolemne an Ob<g ref="char:EOLhyphen"/>ligation, we ſhall be found to mock God, we have enga<g ref="char:EOLhyphen"/>ged him againſt us, and adde the Almighty to the number of our enemies, a ſwift and a powerfull <hi>witneſſe,</hi> and <hi>avenger</hi> of our <hi>perfidiouſneſſe.</hi> Nor will refuſall of this <hi>Covenant</hi> help us; when God ſhall come to interpret, It
+<pb n="25" facs="tcp:114915:18"/>
+will be found,<note place="margin">Job 22.17.</note> I feare (ſayth he) in moſt but a <hi>depart from us;</hi> And when God ſhall anſwer the daring ſinner in his own language;<note place="margin">Pſal. 78.9, 10, 36, 37. Levit. 26.25. Deut. 29.24, 25 3 <hi>Motive.</hi>
+                     </note> woe to the poore wretch that ever he was borne.</q>
+               </p>
+               <p>Be not therefore like the children of <hi>Ephraim,</hi> for he will avenge the quarrell of the Covenant.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Again, the more Exhortations, Excitations, and Oppor<g ref="char:EOLhyphen"/>tunities we have to put us upon this duty, if we neglect it, the greater will our condemnation be. We having exhorta<g ref="char:EOLhyphen"/>tions from Magiſtrates and Miniſters, what ſhall we ſay for our ſelves, how ſhall we excuſe our neglect? Our Fathers would run hazards to heare the word of God, and humbled themſelves before God in private, when they could not be ſuffered in publike ſo to doe: and we their children by na<g ref="char:EOLhyphen"/>ture (not by grace) refuſe the ſame in publike, though we be not onely encouraged, but alſo required and commanded to performe theſe duties, both by our preſent moſt gracious Soveraign Lord the Kings Majeſty,<note place="margin">The religious obſervation of the monethly Faſt,</note> and his high and Ho<g ref="char:EOLhyphen"/>nourable Parliament. How can this neglect and contempt both of the Laws of God, and of the land, be anſwered? And ſo in regard of the plenty of the means of grace which we enjoy;<note place="margin">Matth. 11.21, 22.23.</note> it ſhall be more tollerable for <hi>Sodom</hi> and <hi>Go<g ref="char:EOLhyphen"/>morrah,</hi> in the day of judgment, then for ſuch as have had a<g ref="char:EOLhyphen"/>bundance of means, and not made good uſe thereof; the higher they be lifted up, the lower they ſhall be thrown down.<note place="margin">Heb. 2.1.2, 3.</note> 
+                  <hi>Therefore we</hi> (I may well ſay) <hi>ought to give the more earneſt heed to the things which we have heard, leſt as any time we ſhould let them ſlip. For if the word ſpoken by Angels was ſtedfaſt, and every tranſgreſſion and diſobedience recei<g ref="char:EOLhyphen"/>ved a juſt recompence of reward; How ſhall we eſcape if we neglect ſo great ſalvation, which at the firſt began to be ſpoken by the Lord, and was confirmed unto us by them that heard him.</hi> Our own conſciences ſhall firſt accuſe; ſecondly, beare witneſſe againſt; thirdly, judge and condemne; laſtly, exe<g ref="char:EOLhyphen"/>cute and torment our own ſelves. O wicked wretch that I was, I had ſo many ſuch opportunities as few had the like, and yet I like a fool trifled and waſted away ſuch pretious
+<pb n="26" facs="tcp:114915:19"/>
+times and ſeaſons:<note place="margin">1 John 3.20.</note> 
+                  <hi>And if our conſciences ſhall conditione us,</hi> God will much more condemne us, becauſe God is infinitely great.</p>
+               <p>Every one of us in this condition, without repentance, ſhall mourn at the laſt,<note place="margin">Prov. 5.11, 12, 15, 14.</note> and ſay, <hi>How have I hated inſtruction, and my heart deſpiſed reproofe!</hi> and <hi>I have not obeyed the voyce of my teachers, &amp;c.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>3</label> This Doctrine alſo affords ſweet conſolation to the godly <milestone type="tcpmilestone" unit="unspecified" n="1"/> ſoul, for all the power of earthly Kingdoms, their Latitude and Longitude, their breadth and length, their extent, their continuance and duration, are all numbred by the Lord: The wicked hate,<note place="margin">Pſal. 137.7.</note> oppoſe, and would root out the godly, but God limits them, and they ſhall doe no more then ſhall make for Gods glory and his peoples good,<note place="margin">Rom. 8.28.</note> they are like mad men in chains, and can goe no farther then the chaine permits them.<note place="margin">Pſal. 76.10. Pſal. 2.12. Pſal. 55.23.</note> 
+                  <hi>Surely the wrath of man ſhall praiſe thee: the remainder of wrath ſhall thou reſtrain.</hi> They ſt<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> periſh in the mid-way of ſuch their <hi>plots</hi> and <hi>deſignes,</hi> they ſhall not <hi>live out halfe their dayes;</hi> which is either halfe the time them<g ref="char:EOLhyphen"/>ſelves dream of, or that one would think, according to their naturall conſtitution, they might live, rather then they ſhall proceed a ſtep farther then may make for Gods glory.<note place="margin">Luke 12.19, 20</note> 
+                  <hi>Thou fool, this night</hi> (when thou leaſt thinkeſt of it) <hi>thy ſoul muſt be required of thee.</hi> And ſo the rod of the wicked ſhall not alwayes lye upon the back of the Righteous,<note place="margin">Pſal. 125.</note> their power and time is numbred.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> In regard of particular perſons and godly ſouls, the Lord doth try them, but yet all their afflictions are in <hi>meaſure,</hi> not to make a full end of them,<note place="margin">Jer. 30.11.</note> and therefore God hath a double meaſure.</p>
+               <p>
+                  <note place="margin">2 Cor. 5.10. Pſal. 7.16. Pſal. 9.16.</note>
+                  <hi>A meaſure of juſtice,</hi> whereby as a Judge he meaſureth <milestone type="tcpmilestone" unit="unspecified" n="1"/> out to the wicked a puniſhment proportionable to their wick<g ref="char:EOLhyphen"/>edneſſe, a part of which they receive even in this life of<g ref="char:EOLhyphen"/>ten times.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                  <hi>A meaſure of mercie,</hi> whereby as a tender Father, and loving Phyſitian he faithfully chaſteneth his Sonnes for their faults;<note place="margin">Pſal. 103.10. 1 Cor. 10.13.</note> not according to what they have deſerved, but ac<g ref="char:EOLhyphen"/>cording
+<pb n="27" facs="tcp:114915:19"/>
+to what they have deſerved, but according to their ability, with reſpect to their profit, how much will doe them good. And in caſe they want ſtrength and grace,<note place="margin">Heb. 12, 10. 2 Cor. 12.9. Revel. 2.10.</note> he puts into them ſtrength and grace ſufficient. And he meaſures the time alſo, how long it ſhall continue.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> In regard of the Church,<note place="margin">Acts 9.31. <hi>An. Chriſti</hi> 34. Acts 12.1. <hi>An. Chriſti</hi> 43.</note> for although the ſtate of the Church hitherto hath been ſuch, that ſomtimes they have had ſome breathing times of peace; yet it was not long be<g ref="char:EOLhyphen"/>fore perſecutions came again.</p>
+               <p>But there is, doubtleſſe, a time a coming, and now even very neer too, in which this ſhall be fulfilled. <hi>Moreover,</hi>
+                  <note place="margin">2 Sam. 7.10.</note> 
+                  <hi>I will appoint a place for my people Iſrael, and will plant them, that they may dwell in a place of their own, and move no more; neither ſhall the children of wickedneſs afflict them any more, as before time.</hi> And though this place may moſt properly be applyed to the Chriſtian Church of the Jews; <hi>after their converſion to Chriſt,</hi> (which we now expect) yet the true <hi>Chriſtians</hi> of thoſe times, of what Nation ſoever by birth, and not being Jews, are as children of the ſame Church, im<g ref="char:EOLhyphen"/>plyed therein, as appears in another Propheſie. <hi>Ariſe, ſhine,</hi>
+                  <note place="margin">Iſa. 60.1.</note> 
+                  <hi>for thy light is come, and the glory of the Lord is riſen upon thee.</hi> This ſeems to be ſpoken to the Jews onely, but by and by he ſayth, <hi>And the Gentiles ſhall come to thy light, and <milestone type="tcpmilestone" unit="unspecified" n="3"/> Kings to the brightneſſe of thy riſing. Lift up thine eyes round <milestone type="tcpmilestone" unit="unspecified" n="4"/> about and ſee: all they gather themſelves together, they come to thee: thy ſons ſhall come from far, and thy daughters ſhall be nurſed at thy ſide. Then thou ſhalt ſee, and flow together, and <milestone type="tcpmilestone" unit="unspecified" n="5"/> thine heart ſhall feare, and be enlarged, becauſe the abundance of the ſea ſhall be converted unto thee, the forces of the Gen<g ref="char:EOLhyphen"/>tiles ſhal come unto thee.</hi>
+                  <note place="margin">Micah 4.2.</note> The which times the Prophet <hi>Micah</hi> alſo ſore-telleth at large, ſaying, <hi>And many Nations ſhall come and ſay, Come, and let us goe up to the Mountain of the Lord, and to the houſe of the God of Jacob, and he will teach us of his wayes, and we will walke in his paths:</hi> And of the great peace of thoſe times he ſayth, <hi>they ſhall beat their ſwords into plow ſhares, and their ſpears into pruning hooks: Nation <milestone type="tcpmilestone" unit="unspecified" n="3"/> ſhall not lift up a ſword againſt Nation, neither ſhall they learn
+<pb n="28" facs="tcp:114915:20"/>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> war any more. But they ſhall ſit every man under his vine, and under his fig-tree, and none ſhall make them afraid:</hi> And he confirms this truth, ſaying, <hi>for the mouth of the LORD of Hoſts hath ſpoken it.</hi> And he ſhews the reſolution of Gods <milestone type="tcpmilestone" unit="unspecified" n="5"/> people then ſhall this be; <hi>We will walke in the name of the Lord our God for ever, and ever.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> But when ſhall theſe things be? will ſome one ſay; or rather, will many ſay, for I obſerve of late a great de<g ref="char:EOLhyphen"/>ſpondencie of ſpirit in many Chriſtians.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> Although I will not limit the <hi>holy one of Iſrael,</hi> to ſet a certain day or yeare; Yet we may conclude, the beginning of thoſe times is very nigh, upon two Scripture grounds, (for I love to build upon no other foundation in matters of this nature.)</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Becauſe the ſervants of the Lord are enlarged in prayer for the Church of the <hi>Jews,</hi>
+                  <note place="margin">Pſal. 102.13, 14</note> they take pleaſure in her ſtones, and favour the duſt thereof, hence the Prophet concludeth, <hi>Thou ſhalt ariſe, and have mercie upon Zion; for the time to favour her,</hi>
+                  <note place="margin">Exod. 17.11. <hi>Calviſ.</hi> Chron. <hi>An. Chriſti</hi> 394. Acts &amp; Mon. Vol. 1. p. 66. 67.</note> 
+                  <hi>yea, the ſet time is come.</hi> For when the ſervants of Chriſt lift up their hands and hearts in fervent faithfull prayer, their enemies fall to fearfull ruine, as appears in the Sacred ſtory of <hi>Moſes</hi> and <hi>Amalek:</hi> the <hi>Eccleſiaſticall Hi<g ref="char:EOLhyphen"/>ſtory</hi> of <hi>Theodoſius,</hi> and the Letter of <hi>Marcus Aurelius Antonius, Emperour to the Senate and people of Rome.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Becauſe we may underſtand ſo much by Books, to wit, the Books of Gods Word,<note place="margin">Dan. 9.2. Jer. 25.12.</note> as <hi>Daniel</hi> underſtood by reading the Propheſie of <hi>Jeremiah.</hi> I wil therefore propound ſome things, and leave them to your ſerious and wiſe conſiderations, ho<g ref="char:EOLhyphen"/>ping they will give ſome light unto this truth.</p>
+               <p>That famous and faithfull countrey-man of ours, and indeed a reverend Divine, and (if I may without offence hyperbolize a little) the Prophet of this <hi>Centurie,</hi> the bright burning light of our age Maſter <hi>Thomas Brightman,</hi> in his Commentaries both of the <hi>Revelations</hi> and <hi>Solomons Song,</hi>
+                  <note place="margin">
+                     <hi>In</hi> Apoc. 19.1, 2, 3, 4. Cant. 6.9.</note> doth ſuppoſe the firſt calling of the Jews to be in the yeare 1650, and that <hi>Rome</hi> ſhall be deſtroyed ſome ſhort time be<g ref="char:EOLhyphen"/>fore the calling of that new people.</p>
+               <p>
+                  <pb n="29" facs="tcp:114915:20"/>Yet wil I make bold to propound ſome Scripture-grounds why ſome other godly, learned, and judicious Divines, doe rather refer theſe things to a time ſomwhat longer hence; take the ſubſtance of them in theſe few propo<g ref="char:EOLhyphen"/>ſitions.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> God hath all times and ſeaſons in his own hands,<note place="margin">Acts. 1.7. Amos 3.7. Dan. 12.4.</note> and doth reveale things uſefull for his Church, to his ſervants the Prophets.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> We finde in the Sacred Scripture, that God hath limited all the great captivities, and afflictions of his Church, as their bondage in <hi>Egypt,</hi> the Babyloniſh Captivity,<note place="margin">Gen 15.13. Jer. 29 10. Dan 9 24.</note> ſo their Calamity from the time of <hi>Daniel</hi> unto Chriſt; even ſo the Captivity of the Church under Antichriſt, is alſo limited to a certain ſet time, <hi>Revel.</hi> 17.17. namely, 1260 dayes.<note place="margin">Revel. 11.3. Revel. 11.2. Revel. 13.5.</note> 
+                  <hi>Revel.</hi> 12.6, which is contemporary and of equall duration with the 42 moneths, and the time, times, and halfe a time, or three yeares and a halfe, reckoning 30 dayes to a moneth, 12 moneths to a yeare.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> By a thouſand two hundred and three ſcore dayes, in that place, is not meant ſo many naturall dayes,<note place="margin">Revel. 12.6. Ezek. 4.6.</note> but a propheticall day is a yeare, as in <hi>Ezekiel, I have appointed thee each day for a yeare.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> The womans flight into the Wilderneſſe was preſently after that war, by which the <hi>Dragon was caſt out,</hi>
+                  <note place="margin">Revel. 12.6, 7, 8, 9.</note> 
+                  <hi>and there was no more place found in heaven for him.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> That thoſe 1260 years muſt not begin (as ſome have thought) at the victory of <hi>Conſtantine the Great,</hi> though he indeed began that Warre; becauſe that after his time, hea<g ref="char:EOLhyphen"/>theniſh Idolatry was again uſed in publike, in the dayes of <hi>Julian</hi> the <hi>Apoſtate:</hi> But we muſt begin that number of <note n="*" place="margin">De qua vi<g ref="char:EOLhyphen"/>ctoria <hi>Claudia<g ref="char:EOLhyphen"/>nus</hi> ita canit: O nimium dile<g ref="char:EOLhyphen"/>cte Deo, cui mi<g ref="char:EOLhyphen"/>litat aether, &amp;c. Et coniurati ve<g ref="char:EOLhyphen"/>niunt ad claſſi<g ref="char:EOLhyphen"/>ca venti.</note>yeares at the laſt victory of that famous <hi>Theodoſius</hi> in his Battell againſt the Pagans under <hi>Eugenius.</hi> Which <hi>Theo<g ref="char:EOLhyphen"/>doſius</hi> did root out Satanicall worſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p, ſo that it never, in the ſame kinde, prevailed ſince his time in <hi>Rome.</hi>
+               </p>
+               <p>And for the time when this Battell was fought, as the Romane Hiſtories do not wholly faile us, ſo neither do they ſo certainly report the time to us as were to be deſired. For
+<pb n="30" facs="tcp:114915:21"/>
+                  <hi>Functius</hi> puts the ſame Battel of <hi>Theodoſius</hi> againſt <hi>Eugeni<g ref="char:EOLhyphen"/>us,</hi>
+                  <note place="margin">
+                     <hi>An. Chriſti</hi> 395. 1260.</note> in the yeare of Chriſt 398; but yet <hi>Calviſius,</hi> who herein ſeemes more exact,<note place="margin">1655.</note> hath it in the yeare 395, and ſome doe abate of thoſe years alſo.<note place="margin">
+                     <hi>An Chriſti</hi> 398. 1260.</note> Whereupon ſome reverend and judicious Divines, doe thinke that the downfall of <hi>Rome</hi> ſhall be either in the yeare 1658,<note place="margin">1658.</note> or before, and that it ſhall not ſtand longer then that yeare at the moſt.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> To prevent an objection. That the concluſion doth too <milestone type="tcpmilestone" unit="unspecified" n="6"/> much depend upon humane writings and Chronologies.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> You are to know (beloved) that all that do open Prophe<g ref="char:EOLhyphen"/>ticall Scriptures, doe very well to clear the fulfilling of the Propheſies, by the true hiſtories of the times to which they do properly belong, although but Humane Writers. And this practice is alſo warranted in the Book of <hi>Heſter,</hi>
+                  <note place="margin">Hiſt. 10.2.</note> where the Holy Ghoſt doth refer the readers of that age unto the Chronicles of the Medes and Perſians (which were the Ci<g ref="char:EOLhyphen"/>vill Annals or Hiſtories writ and kept by thoſe Heathens) that there they might reade a more large declaration of thoſe things which were more conciſely and briefly related in that Book;<note place="margin">Titus 1.12. Acts 17.28.</note> ſo that, for amplification and illuſtration, ſuch wri<g ref="char:EOLhyphen"/>tings may be uſed, though not for ſufficient and ſingle pro<g ref="char:EOLhyphen"/>bations of divine truths.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>4</label> The laſt Uſe ſhall be an Uſe of <hi>Vivification,</hi> or quickning to revive our languiſhing ſpirits, which in theſe ſad times, are too too ready to give in. Lift up, I ſay, your heads with joy,<note place="margin">Luke 21.28. Heb. 12.12, 13.</note> 
+                  <hi>the dayes of your conſolation are nigh.</hi> Wherefore lift up the hands which hang down, and the feeble knees, and make ſtreight paths for your feet, leſt that which is lame be turned out of the way, but let it rather be healed; and as the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Peter</hi> exhorteth,<note place="margin">1 Pet. 1.13.</note> 
+                  <hi>Gird up the loyns of your minde, be ſober, and hope unto the end:</hi> In that phraſe, <hi>Gird up,</hi> he alludes un<g ref="char:EOLhyphen"/>to the long-ſide garments which the Jews did wear, which, if they were not girded up,<note place="margin">1 Kings 18 46.</note> did hinder their activity; now this he applies metaphorically to the minde, which muſt be girded up, but let it be with the <hi>girdle of truth</hi> (ſirs) and it ſhall fortifie our ſlack mindes to theſe duties.<note place="margin">Epheſ. 6.14.</note>
+               </p>
+               <p>To Chriſtian <hi>Moderation</hi> of ſpirit concerning ſublunarie <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <pb n="31" facs="tcp:114915:21"/>
+things, an excellent grace in theſe ſo doubtfull times;<note place="margin">Aequa mens, tranquilitas mentis.</note> uſefull it is in proſperity and adverſity, not being too greedy in get<g ref="char:EOLhyphen"/>ting or keeping the things of this life, nor too much fearing the loſſe of them. <hi>Let your moderation be known unto all men, The Lord is at hand.</hi>
+                  <note place="margin">Phil. 4.5.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> It ſhould arme us with <hi>Patience,</hi> to undergoe whatſoever God ſhall call us to ſuffer in the meane time, Me thinks I may ſafely ſay, we are the laſt generation that ſhall dye in the field fighting againſt Antichriſt, if we doe not over live him, as it may pleaſe God, many of us may: but beaſts in the killing, when they have the pangs of death on them, uſe to ſtruggle and kick very ſtrongly, and ſo doubtleſſe will he do: let us therefore with <hi>patience</hi> wait in hope for the time of his utter deſtruction, for now in the mean time,<note place="margin">Rom. 8.25. Heb. 10.36.</note> wee have as much need of patience, as ever Chriſtians had.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> It ſhould quicken <hi>Faith.</hi> It was a worthy ſpeech, and well-becomming a gracious Miniſter on his death-bed;<note place="margin">M. <hi>Rob. Bolton.</hi> Pſal. 27.14.</note> 
+                  <hi>Hold out faith and patience, your work will ſpeedily be at an end.</hi> Remember <hi>Davids</hi> charge, <hi>Wait on the Lord,</hi>
+                  <note place="margin">Iſa. 26 22.</note> 
+                  <hi>be of good courage, and he ſhall ſtrengthen thy heart: Wait, I ſay, on the Lord. Hide you in your chamber,</hi>
+                  <note place="margin">Pſal. 91.1, 2.</note> 
+                  <hi>in the ſecret place of the moſt High, abide under the ſhadow of the Almighty, truſt in him, make him thy refuge, till theſe calamities be over paſt:</hi>
+                  <note place="margin">Pſal. 57.1. Pſal. 37.5.</note>
+                  <hi>Roll thy way upon the Lord, truſt alſo in him, and he ſhall bring it to paſſe.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> It will quicken prayer for the Church of the Jews; they long agoe prayed for the Gentile Churches, ſaying,<note place="margin">Pſal. 67.1, 2.</note> 
+                  <hi>God be mercifull unto us, and cauſe his face to ſhine upon us, Selah. That thy way may be known upon earth, thy ſaving health a<g ref="char:EOLhyphen"/>mong all Nations.</hi> Let us requite to our power the labour of the love of their forefathers, and conſider the fulneſſe of the Gentiles alſo ſhall come in with them,<note place="margin">Rom. 11.12, 15</note> which ſhall be <hi>much more riches, and as life from the dead to us Gentiles.</hi> our own joy is wrapt up in theirs; And therefore every one of us have good reaſpn to pray with that Princely Pſalmiſt, who try<g ref="char:EOLhyphen"/>umpheth in Hebrew rythme, <hi>Remember me, O Lord,</hi>
+                  <note place="margin">
+                     <hi>Pſal. 106.4, 5.</hi> Liroth betobath bechirecha, Liſmoach beſimcbath goiecha, Lehithhall alim nachalechecha.</note> 
+                  <hi>with thy favour that thou be areſt unto thy people: O viſit me with
+<pb n="32" facs="tcp:114915:22"/>
+thy ſalvation, that I may ſee the good of thy choſen, that I may rejoyce in the gladneſſe of thy Nation, that I may glory with thine inheritance.</hi> For perhaps, yet before we die (many of us I mean) our eyes may ſee that bleſſed time, our eares may heare that happy news, and our heares may rejoyce in the joy of the Chriſtian Jews.</p>
+               <q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>2</label> That the Lord ſtrictly obſerves the gravity or levity of every ſoul in the matters of God.</q>
+               <p>He doth ſtrictly obſerve (I ſay;) for the Text ſayth, he <hi>weigheth,</hi> as a man that will not truſt to a gueſſe, conjecture, or a ſuppoſed probability of a thing, and I ſay, every ſoule, for the Prophet names the King <hi>Belſhazzar</hi> in particular, and I uſe thoſe phraſes,<note place="margin">Verſ. 22, 23, 27</note> of gravity, heavineſſe, ponderouſ<g ref="char:EOLhyphen"/>neſſe, and weightineſſe; or levity and lightneſſe, in reference to the word <hi>weighed,</hi> uſed in the Text: which is (as I ſaid before) a metaphor taken from men that will have currant pay, and not counterfeit coyne; therefore they bring it firſt to the <hi>Touch-ſtone,</hi> and after to the <hi>Gold-ſcales,</hi> and <hi>weigh</hi> it, for it may be good mettall, and yet deficient in the quanti<g ref="char:EOLhyphen"/>ty;<note place="margin">Mal. 3.2, 3, 4.</note> ſo the Lord will try the ſons of men, as Refiners do gold and ſilver,<note place="margin">Zech. 13.9.</note> and will come neere to judgement. <hi>He will bring them through the fire, and refine them as ſilver is refined, and try them as gold is tryed.</hi>
+                  <note place="margin">Pſal. 119.119.</note> 
+                  <hi>And then he putteth away all the wicked of the earth like droſſe.</hi> And becauſe the Lord will be very punctuall in his proceedings, therefore the Scripture (ſpeaking of God, according to the manner of men) ſayth in the perſon of God himſelfe,<note place="margin">Gen. 18.21.</note> 
+                  <hi>I will goe down now, and ſee whether they have done altogether according to the cry of their ſinne.</hi> Shewing, that the Lord as a moſt wiſe and juſt Judge, will firſt enter into ſtrict examination, before he proceed to a ſentence, and ſevere execution. Theſe phraſes are equiva<g ref="char:EOLhyphen"/>lent with that in my Text; but ye may alſo take the proofe of it even in the very phraſe uſed in the Text. <hi>All the wayes of a man are clean in his own eyes: but the Lord weigheth the ſpirits,</hi>
+                  <note place="margin">Prov. 16.2. Prov. 21.2.</note> or, <hi>he pondereth the hearts,</hi> which is all one.</p>
+               <p>And laſtly, I ſay, God will obſerve their gravity or levity, in the matters of God, for it makes nothing to this point,
+<pb n="33" facs="tcp:114915:22"/>
+what riches, honours, or pleaſures, men have in this world, nor how men eſteeme us; for ye ſee in the expoſition of my Text, the great King <hi>Belſhazzar,</hi> in all his pompe, glory,<note place="margin">Dan. 5.27.</note> and jollity, is found wanting, and why ſo? Becauſe <hi>his heart was not humbled,</hi> but on the contrary, <hi>he lifted up himſelfe againſt the Lord of heaven.</hi>
+               </p>
+               <p>The Reaſon is taken from the moſt exact juſtice of God,<note place="margin">
+                     <hi>Reaſon.</hi> Gen. 18.25. Ezek. 18.29.</note> who being Judge of all the world will doe right, <hi>for all his wayes are indeed moſt Equall,</hi> or <hi>Weighed,</hi> as the <hi>Originall</hi> word ſignifieth. <hi>The Lord reigneth,</hi>
+                  <note place="margin">Pſal. 99.1, 4.</note> 
+                  <hi>and he loveth judge<g ref="char:EOLhyphen"/>ment, he doth eſtabliſh equity, he executeth judgement and righteouſneſſe.</hi> As wiſe men are carefull in every thing, nei<g ref="char:EOLhyphen"/>ther to deceive, nor to be deceived: Truly God cannot be deceived, <hi>Be not deceived, God is not mocked:</hi>
+                  <note place="margin">2 Tim. 3.13. Gal. 6.7. Jer. 17.10. 2 Cor. 5.10.</note> for <hi>whatſoever a man ſoweth, that ſhall he alſo reap. For Jehovah ſearcheth the heart, and tryeth the reins, even to give every man ac<g ref="char:EOLhyphen"/>cording to his wayes, and according to the fruit of his doings.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> The firſt Uſe is of Inſtruction, to informe us in ſeverall <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>1</label> particulars belonging to this point.</p>
+               <p>Firſt, What it is that God doth <hi>weigh;</hi> and this may be expreſſed in theſe four particulars.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> God doth <hi>weigh</hi> the Spirit or heart of every man, the very <hi>affections of his ſoul,</hi> Prov. 16.2.<note place="margin">Prov. 21.2. Deut. 6.5.</note>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> God doth <hi>weigh</hi> the <hi>Actions of men</hi> alſo. 1 <hi>Sam.</hi> 2.3.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> God <hi>weigheth</hi> the <hi>Words</hi> of men, for the Prophet ſaith,<note place="margin">Iſa. 26.7.</note> 
+                  <hi>He weigheth the path of the juſt.</hi> And the <hi>path</hi> doth imply as well words as actions,<note place="margin">Pſal. 73.2. with 15. Matth. 12.36. Pſal. 139.1. Jer. 4.14. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Vanitas.</hi> i. <hi>res quae non eſt quidpiam, aut quae citò deſi<g ref="char:EOLhyphen"/>nit, ut ſlatus qui exit abore.</hi>
+                  </note> as appears by the Prophet <hi>Aſaphs</hi> expreſ<g ref="char:EOLhyphen"/>ſing the <hi>ſlipping of his ſteps, by ſpeaking againſt Gods chil<g ref="char:EOLhyphen"/>dren.</hi> Therfore an <hi>idle word</hi> is a light word in Gods account.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> God doth <hi>weigh</hi> the <hi>Thoughts</hi> too. For <hi>Jeremiah</hi> ſpeaks of <hi>vain thoughts,</hi> that they muſt be <hi>waſhed away:</hi> now vaine words or thoughts are too light, for vanity is a vaine light thing as appeares, both by the Compariſon the Prophet <hi>David</hi> uſeth, <hi>Pſal.</hi> 62.9. And by the Hebrew word <hi>Hebel,</hi> in the ſame place ſignifying <hi>a vain light thing,</hi> as the breath of ones mouth, or a bubble on the water, or lightneſſe in the Abſtract.</p>
+               <p>
+                  <pb n="34" facs="tcp:114915:23"/>Secondly, We may be informed of Gods <hi>method,</hi> in this <milestone type="tcpmilestone" unit="unspecified" n="II"/> his weighing and trying us.</p>
+               <p>
+                  <note place="margin">1 <hi>Quis?</hi> Gen 4 4, 5.</note>The Lord firſt weigheth the man, and then his perfor<g ref="char:EOLhyphen"/>mances; <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, the party himſelfe, and then his procee<g ref="char:EOLhyphen"/>dings. <hi>The Lord had reſpect to</hi> Abel <hi>and to his offering: But unto</hi> Cain <hi>and to his offering, the Lord had not reſpect.</hi> The Lord looks firſt what the man is,<note place="margin">Heb. 11.6.</note> whether he be in the faith; <hi>For without faith it is impoſſible to pleaſe God.</hi>
+               </p>
+               <p>Our wayes and performances, the Lord tryeth theſe, be<g ref="char:EOLhyphen"/>cauſe <milestone type="tcpmilestone" unit="unspecified" n="2"/> even the godly themſelves, may be ſomtimes out of their way, therefore he enquireth (that I may ſo ſay) into theſe particulars concerning our wayes.</p>
+               <p>
+                  <note place="margin">2 <hi>Quid?</hi> Iſai. 1.12. Deut. 6.25. 1 John 3.4. Deut. 12.32. Deut. 5.33. Matth. 5.18.</note>Whether the thing done, ſpoken, or thought, be a duty <milestone type="tcpmilestone" unit="unspecified" n="1"/> commanded by himſelfe, for elſe, <hi>Who</hi> (ſayth he) <hi>required this at your hands? And this is our righteouſneſſe, to doe whatſoever he hath commanded us.</hi> It is <hi>ſin</hi> to <hi>adde to it,</hi> or <hi>detract from it,</hi> to <hi>turne aſide to the right hand or to the left,</hi> to goe beyond, or to fall ſhort an <hi>Iota</hi> of it.</p>
+               <p>
+                  <note place="margin">3 <hi>Quomodo?</hi> Gal. 6.16. 1 John 2 6. M <hi>Allen</hi> Doct. Goſp. <hi>Haec tria perpe<g ref="char:EOLhyphen"/>tuò meditare adverbia Pauli: Haec tria ſint vitae regula ſancta tuae.</hi>
+                  </note>Whether (if it be a duty) it be performed in that man<g ref="char:EOLhyphen"/>ner <milestone type="tcpmilestone" unit="unspecified" n="2"/> it ſhould be, and according to the Rule of Gods Word? <hi>For he that ſayth he abideth in Chriſt, ought himſelf alſo ſo to walk even as he walked:</hi> for God looks to the due manner of performing good works. <hi>We ſhould live, ſobriè, juſtè, &amp; piè, ſoberly, righteouſly, and godly in this preſent world, Tit.</hi> 2.12.</p>
+               <p>Whether the end aimed at be the glory of his own name? for as God made all things for his Glory, ſo in all our acti<g ref="char:EOLhyphen"/>ons <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+                  <hi>Naturall</hi> or <hi>Morall,</hi> we ſhould aime at his glory. <hi>Whether ye eat or drinke,</hi>
+                  <note place="margin">4 <hi>Quorsùm.</hi> 1 Cor. 10.31. Pſal. 139.1, 2.</note> 
+                  <hi>or whatſoever ye doe, doe all to the glory of God.</hi> And God is acquainted with our ends, that we ayme at, in performing every action, for he perfectly knoweth our thoughts long before, or afar off.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> We may be alſo informed and ſhewed what is meant by lightneſſe or wanting, and deficiencie ſpoken of in the 27 Verſe,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> and implyed in the Text, in the word <hi>weigheth:</hi> this wanting noteth two things then.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Wanting</hi> ſubſtantiall weight for the preſent, or wanting convenient ſupply to ſtand us in ſtead for preſent uſe, for ſo
+<pb n="35" facs="tcp:114915:23"/>
+the word is uſed in <hi>Sacred Scripture,</hi>
+                  <note place="margin">Job 30.3. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> as for want of food in famine, or lacking of things neceſſary, 1 <hi>King.</hi> 11.22.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <hi>Wanting,</hi> may alſo reſpect the time to come, when a man hath not lands to live on, or a continued Trade or employ<g ref="char:EOLhyphen"/>ment to continue a livelyhood withall, this man may alſo be ſaid to want, although he ſhould have ſomwhat for his preſent uſe: and the <hi>Originall</hi> word is uſed in this ſenſe alſo. And the <hi>barrell of meal waſted not,</hi>
+                  <note place="margin">1 Kings 17.16. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> and <hi>the cruſe of Oile did not fail,</hi> or <hi>wanted</hi> not.</p>
+               <p>Juſt thus it is in this caſe in a ſpirituall ſenſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Many boaſt of ſpirituall riches, and yet in very deed have nothing that is good for the preſent; ſo did the Church of the <hi>Laodiceans,</hi> which may yet well be applyed to many people in <hi>England. Thou ſayſt I am rich,</hi>
+                  <note place="margin">Revel. 3.17.</note> 
+                  <hi>and increaſed with goods, and have need of nothing: and knoweſt not that thou art wretched, and miſerable, and poore, and blinde, and naked:</hi> we are ready to thinke highly of our ſelves and our own works, but we ſhould goe unto Chriſt for all, even as he there ſaith, <hi>I counſell thee to buy of me gold tryed in the fire,</hi>
+                  <note place="margin">Revel. 3.18.</note> 
+                  <hi>that thou mayeſt be rich, and white rayment that thou mayeſt be clothed, and that the ſhame of thy nakedneſſe do not ap<g ref="char:EOLhyphen"/>peare, and anoint thine eyes with eye ſalve that thou mayſt ſee.</hi> For both our ſelves, and our weak endeavours in holy duties (which we are bound conſcionably to exerciſe) muſt be ac<g ref="char:EOLhyphen"/>cepted of God the Father in and through Jeſus Chriſt,<note place="margin">1 Tim. 4.7. Matth. 3.17. Revel. 8.3. Iſai. 64.6.</note> or elſe our ſelves ſhall be unclean, and all <hi>our righteouſneſſes but as filthy rags</hi> in Gods ſight.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Many have very good gifts and parts,<note place="margin">Matth. 25.3.</note> and very fair ſhews of grace too, wherewith they ſeem to ſhine bright for the preſent, but yet they want a ſupply,<note place="margin">Rom. 8 9. Luke 4.18. Matth. 25.4. 2 Cor. 12.9. Pſal. 84.12.</note> becauſe the Holy Ghoſt dwels not in them himſelfe (as hee doth in every gracious ſoul) and the <hi>Spirit of God</hi> is as a veſſell of oile to the godly ſoule; whereby he hath a continued and plentifull ſupply of all graces he ſtands in need of. <hi>The Lord will give him both grace and glory, and with-hold nothing that is good for him:</hi> But he that hath not the Spirit of Chriſt dwelling in him, but onely parts and gifts; yet when he ſhall have moſt need
+<pb n="36" facs="tcp:114915:24"/>
+of the uſe of them, they being indeed (in themſelves conſi<g ref="char:EOLhyphen"/>dered) good gifts of God, then they are taken away:
+<q>
+                     <note place="margin">Matth. 13.12.</note>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>even that hee hath,</hi> ſayth the text.</q>
+And all his fair ſhews ſhall alſo be taken away, he ſhall no longer have them to beguile others or himſelf withall: and therefore another Evangeliſt expreſſeth it thus; from him ſhall be taken <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,<note place="margin">Luke 8.18.</note> 
+                  <hi>even that which he ſeemeth to have:</hi> that which he hath in his own or others opinion.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Laſtly, we may be informed what ſorts of people will be found too light when the Lord tryes the ſons of men: I might rank them into divers ſorts, but (time being ſo far ſpent) I will name but two ſorts, to which I conceive all other may be referred, <hi>videlicet;</hi> men openly wicked, and hypocrites; for ſo the Pſalmiſt doth ſpeak of them, ſaying, <hi>As for ſuch, as turn aſide unto their crooked ways,</hi>
+                  <note place="margin">Pſal. 125.5.</note> he means hypocrites, that in ſhew turn to God-ward, and to Heaven-ward, and yet indeed turn to Satan-ward and to Hel-ward: This is crookedneſſes in very truth,<note place="margin">
+                     <hi>M.</hi> Henry Ainſ<g ref="char:EOLhyphen"/>worth <hi>his tranſlation.</hi> But they that turn aſide to their crooked<g ref="char:EOLhyphen"/>neſſes, &amp;c.</note> as the Original word there ſigni<g ref="char:EOLhyphen"/>fies; and what ſhall become of them? <hi>The Lord ſhall lead them forth as the condemned Malefactor is led out of the City to the execution:</hi> And with what ſort of people ſhall theſe be ſo led? with the other ſort I mentioned before, <hi>the workers of iniquity.</hi>
+               </p>
+               <p>To ſpeak a little more diſtinctly of theſe two ſorts of peo<g ref="char:EOLhyphen"/>ple that are too light.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> All groſſe ſinners, openly and profeſſedly wicked and prophane, which neither know God nor his ways, nor care to know them, that can willingly go on in known ſinnes, and are reſolved ſo to do, whether it be in ſwearing or lying, ſtealing or whoring, Sabbath-breaking or drunkenneſſe, pride or crueltie, or any other ſinne; theſe <hi>caſt the word of God behinde them and hate to be reformed.</hi>
+                  <note place="margin">Pſal. 50.17. Dan. 5.1, 2, 3, 4</note> Of this ſort was <hi>Belſhazzar,</hi> though he was a King, yet being a drunkard, a prophane man, one that praiſed his gods of gold, &amp;c. And ſo diſhonoured the living Lord; and on the other ſide, he had not humbled his heart before the Lord,<note place="margin">18, 19.20, 21, 22, 23.27.</note> but lifted up himſelf againſt <hi>the Lord; and had not glorified him in whoſe hand his
+<pb n="37" facs="tcp:114915:24"/>
+breath and all his wayes were; Now he was Weighed in the ballance and found wanting.</hi>
+                  <note place="margin">Pſal. 9.17.</note> 
+                  <hi>For the wicked ſhall be turned into hell, with all the people that forget God.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> All ſorts of hypocrites, howſoever making a ſhew, ſome of them, of holineſſe toward God, without regard of juſtice toward men, ſome of them ſeeming to have great regard to duties of juſtice toward men, and having no reſpect to the duties of holineſſe: both theſe diſcover themſelves to the veiw of judicious Chriſtians; but ſome will make a very fair overture and ſhew both of pietie to God, and equitie to men alſo; and ſo did the proud Phariſee;<note place="margin">Luke 18.11, 12.</note> he faſted twice in the week and paid tithes of all, and many things more they did, and abſtained from many ſinnes; And yet our Saviour Chriſt himſelfe ſaith,<note place="margin">Matth. 5.20.</note> 
+                  <hi>Except your righteouſneſſe ſhall exceed the righteouſneſſe of the Scribes and Phariſees, ye ſhall in no caſe enter into the Kingdome of heaven.</hi> And the Apoſtle <hi>Paul</hi> gives us the reaſon ſaying.<note place="margin">Rom. 10.3, 4.</note> 
+                  <hi>They being ignorant of Gods righ<g ref="char:EOLhyphen"/>teouſneſſe, and going about to eſtabliſh their own righteouſneſſe have not ſubmitted themſelves unto the righteouſneſſe of God. For Chriſt is the end of the Law to every one that beleeveth.</hi>
+                  <note place="margin">1 Cor. 1.30. Pſal. 32. John 15.5.</note>
+                  <hi>He is our righteouſneſſe,</hi> or his righteouſneſſe is imputed to us, and applyed to us by faith, for without him we can do nothing that is acceptable unto God.</p>
+               <p>Neither (beloved) is it a meere verball profeſſing of Chriſt that will ſerve our turn, for many there be in theſe dayes that talke much of Gods free grace in Chriſt, and yet live grace<g ref="char:EOLhyphen"/>leſſe lives. Why (ſay they) we are not ſaved by our own works, and Chriſt his righteouſneſſe is mine (ſayes one;) I have nothing of my own to preſent unto God; if I had, I were not poore in ſpirit, and therefore they are careleſſe in their converſations.</p>
+               <p>Theſe are not of <hi>Pauls</hi> ſpirit, who as earneſtly and truly longed for Chriſt, as any,<note place="margin">Phil. 3.7, 8.</note> as appeares by his counting <hi>all things, to be loſſe and dung, in compariſon of the ex<g ref="char:EOLhyphen"/>cellencie of the knowledge of Chriſt, and that he might win Chriſt, and be found in him not having his own righteouſneſs but that which is through the faith of Chriſt.</hi> And that is not
+<pb n="38" facs="tcp:114915:25"/>
+all he deſireth,<note place="margin">Verſe 9.</note> for he yet adds, <hi>That I might know him, and the power of his reſurrection, and the fellowſhip of his ſufferings, being made conformable unto his death.</hi> For whereſoever there is a true application of Chriſt his righteouſneſſe to the poore ſoule unto juſtification, there alſo is the neceſſary con<g ref="char:EOLhyphen"/>comitant thereof, the efficacie and power of the ſpirit of Chriſt, working true ſanctification in ſome meaſure. And therefore the ſame Apoſtle tels us plainly,<note place="margin">Titus 2.11, 12.</note> 
+                  <hi>That the grace of God that brings</hi> (or accompanieth) <hi>ſalvation hath appeared to all men, teaching us that denying ungodlineſſe and worldly luſts, we ſhould live ſoberly, righteouſly, and godly in this pre<g ref="char:EOLhyphen"/>ſent world.</hi> Thoſe therefore that onely talke of grace ſhall miſſe the ſalvation. And the Apoſtle <hi>John</hi> is cleare in this Truth,<note place="margin">1 John 3.1, 2.</note> ſaying, <hi>Behold, what manner of love the Father hath beſtowed upon us, that we ſhould be called the Sons of God!</hi> Beloved, now are we the ſons of God, and it doth not yet appear what we ſhall be, but we know, <hi>that when he ſhall appeare, we ſhall be like him; for we ſhall ſee him as he is.</hi> And to the end, no man ſhould be deluded with a vain hope of this great and ineſtimable favour of God, he gives this rule of cry all to be diſtributed to each one ſeverally, ſaying, <hi>And every man that hath this hope in him,</hi>
+                  <note place="margin">Verſe 3.</note> 
+                  <hi>purifieth himſelfe, even as he is pure.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>2</label> The ſecond Uſe ſhall be of <hi>Examination;</hi> ſeeing God will weigh, ſearch, and try, every man, woman and childe; let us examine our ſelves; as a wiſe man will tell his money when he goes to make a payment,<note place="margin">Pſal. 44.</note> that he may be ſure to know whether he hath ſufficient or no. <hi>Let us ſearch and try our wayes,</hi>
+                  <note place="margin">Lam. 3.39.</note> ſayth the Church of God; and the Apoſtle ſayth, <hi>Ex<g ref="char:EOLhyphen"/>amine your ſelves whether you be in the faith, prove your own ſelves,</hi>
+                  <note place="margin">2 Cor. 13 5.</note> 
+                  <hi>know you not your own ſelves, how that Jeſus Chriſt is in you except ye be reprobates,</hi> or as the Greeke word ſignifi<g ref="char:EOLhyphen"/>eth,<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> not <hi>approved,</hi> for without the privative letter <hi>Alpha,</hi> it ſignifieth <hi>approved, ver.</hi> 7. of that Chapter.</p>
+               <p>
+                  <note place="margin">2 Cor. 10.18.</note>And it is nothing to our queſtion, <hi>what men approve, but what God approveth.</hi> Therefore let us meaſure our ſelves by Gods buſhel or ſtandard; (if I may ſo ſay) weigh we our
+<pb n="39" facs="tcp:114915:25"/>
+ſelves in the ballance of the Sanctuary.</p>
+               <p>
+                  <note place="margin">Queſt.</note> But how ſhall one know that he or ſhe is weighty in the ſenſe we ſpeake now of, or that he wants weight in Gods account?</p>
+               <p>
+                  <note place="margin">Anſw.</note> I will follow the <hi>Metaphor</hi> of the weight of things natu<g ref="char:EOLhyphen"/>rall. Now there are two evident demonſtrative ſignes of the weight, gravity, and ponderoſity, or of the levity and lightneſſe of naturall things, which are known generally of all men.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> A ponderous thing muſt have a proportionable ſtrength to uphold the ſame: It is true in naturall Philoſophy, and every man knows it. A weighty ſtone laid on a weake ſhelfe breaks it down, and the ſame ſtone being laid in a ſoft mud<g ref="char:EOLhyphen"/>die quagmire, ſinks in. Therefore, I ſay, it is well known, that a thing of gravity muſt have a foundation of ſolidity to ſupport it; becauſe weight or <note n="*" place="margin">Gravitas eſt qualitas ad cen<g ref="char:EOLhyphen"/>trum vergeus &amp; movens. <hi>Mag. Phyſ l.</hi> 3. <hi>c.</hi> 7. <hi>S.</hi> 8. <hi>Pſal.</hi> 38.4.</note> gravity is a quality <hi>tending to the center.</hi> And therefore <hi>David</hi> being ſenſible of the weight of his ſin, and of his own weakneſſe, ſayth, <hi>Mine iniquities are gone over my head, as a heavie burthen, they are too hea<g ref="char:EOLhyphen"/>vie for me to beare.</hi>
+               </p>
+               <p>But on the other ſide, a thing that is light, a weak thing will ſupport it and bear it up.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> A ponderous and weighty thing is not eaſily removed:<note place="margin">Gen. 29.8.</note>
+                  <hi>We cannot</hi> water the ſheep <hi>till they roll the ſtone from the wells mouth,</hi> ſay they. So the women going to the <hi>Sepulchre</hi> of our <hi>Saviour,</hi> ſaid among themſelves,<note place="margin">Mark 16.3.</note> 
+                  <hi>Who ſhall roll us away the ſtone from the door of the Sepulchre?</hi> They knew it would require ſtrength to remove a weighty ſtone: For heavie things are not removed by a puffe of winde.</p>
+               <p>But things which are not heavie, but light they are ea<g ref="char:EOLhyphen"/>ſily removed, chaffe is blown away with every puffe of wind.<note place="margin">Pſal. 1.4.</note>
+               </p>
+               <p>Now to apply onely theſe two Rules to ſpirituall ſelf<g ref="char:EOLhyphen"/>tryall.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> I ſay then that the ſoule that is of ſpirituall gravity, is founded upon <hi>Chriſt</hi> onely.<note place="margin">1 Cor. 3.11.</note> 
+                  <hi>For other foundation can no man lay, then that is laid, which is Jeſus Chriſt.</hi> He,<note place="margin">Mat. 1.24.25.</note> and onely He is the <hi>Rock</hi> of <hi>ſolidity</hi> upon which you may ſafely build the
+<pb n="40" facs="tcp:114915:26"/>
+whole weight of eternall ſalvation.<note place="margin">Heb. 5.9. Acts &amp; Mon. Vol. 2. p. 427.</note> Therefore that gracious Martyr, and our Countrey man, <hi>Lambert</hi> cryed out in the very flames, <hi>None but Chriſt, none but Chriſt.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> I ſay, that the ſoule that is of ſpirituall gravity, is ſo fixed and ſetled upon Chriſt, that it cannot be removed from him, neither by deceiving ſleights, nor plain ſtrength of men or devills.<note place="margin">Mat. 16.16, 18.</note> For <hi>Chriſt</hi> (whom <hi>Peter</hi> made confeſſion of) is the <hi>Rock upon which the Church of Chriſt is built:</hi> and neither the perſon of <hi>Peter</hi> himſelfe,<note place="margin">1 Cor. 3.11.</note> as Papiſts; nor his Confeſſion, or his faith profeſſed, as ſome others would have it under<g ref="char:EOLhyphen"/>ſtood: For the Apoſtle <hi>Paul</hi> (being not onely <note n="*" place="margin">Rom. 8.14. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 2 Pet. 1.21. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 1 Cor. 3.11. Pſal. 19.14.</note> 
+                  <hi>led but car<g ref="char:EOLhyphen"/>ried by the holy Ghoſt</hi>) ſaith, <hi>other foundation then Chriſt can no man lay.</hi> And every gracious ſoule ſpeaks thus; <hi>O Jehovah, my rock and my redeemer!</hi> From which place of holy <hi>Writ,</hi> we may ſafely thus argue.</p>
+               <p>The <hi>Redeemer</hi> of the <hi>Church of God</hi> is the <hi>Rock</hi> upon which the ſame Church is built;</p>
+               <p>But <hi>Chriſt onely</hi> is the <hi>Redeemer</hi> of the <hi>Church</hi> of <hi>God:</hi>
+               </p>
+               <p>
+                  <hi>Ergo. Chriſt onely</hi> is the <hi>Rock</hi> upon which the <hi>Church of God is built.</hi>
+               </p>
+               <p>The <hi>Major,</hi> or firſt propoſition, is cleare from the place al<g ref="char:EOLhyphen"/>ledged,<note place="margin">Pſal. 19.14.</note> 
+                  <hi>Jehovah my rock and my redeemer,</hi> therefore one and the ſame perſon is the Rock and Redeemer of the true Church, and conſequently of every gracious ſoule which is a member thereof.</p>
+               <p>
+                  <note place="margin">Gal. 3.13. Acts 4.12, 10. 1 Pet. 1.18, 19.</note>The <hi>Minor,</hi> or ſecond propoſition, is as cleer, for <hi>Chriſt hath redeemed us from the curſe of the Law<g ref="char:punc">▪</g> Neither is there ſalvation in any other.</hi> We are redeemed by the precious bloud of Chriſt, and no other way.</p>
+               <p>The <hi>Concluſion</hi> doth undeniably follow upon the premiſes.</p>
+               <p>Well then, the ſoule being thus built upon Chriſt, cannot be removed;<note place="margin">Matth. 16.18.</note> for the Text ſaith, <hi>The gates of hell ſhall not pre<g ref="char:EOLhyphen"/>vail againſt it.</hi> The gates of Cities in thoſe dayes were both places of Fortification,<note place="margin">Godwin. Antiq.</note> as alſo of their great Conſultations, ſo that it ſhews that neither Hells power nor policy ſhall prevail againſt the ſoule that doth cloſe kindly with Chriſt. <hi>The juſt</hi> (not onely doth,<note place="margin">Hab. 2.4.</note> but) <hi>ſhall live by his</hi> (own) <hi>faith.</hi>
+                  <pb n="41" facs="tcp:114915:26"/>
+And what is the life of faith, but Chriſt living in the ſoule?<note place="margin">Gal. 2.20.</note> For the Apoſtle <hi>Paul</hi> makes theſe Phraſes equivalent and convertible, ſaying, <hi>I am crucified with Chriſt: Neverthe<g ref="char:EOLhyphen"/>leſſe, I live, yet not I, but Chriſt liveth in me, and the life which I now live in the fleſh, I live by the faith of the Son of God, who loved me, and gave himſelfe for me.</hi> Now the ſoule being by God <hi>the Father given to Chriſt,</hi>
+                  <note place="margin">John 6.39. John 10.28. Rom. 8.35.37.</note> 
+                  <hi>none can pluck it out of his hand.</hi> It may therefore triumph in the words of the ſame Apoſtle, <hi>who ſhall ſeparate are us from the love of Chriſt? ſhall tribulation, or diſtreſſe, or perſecution, or famine, or na<g ref="char:EOLhyphen"/>kedneſſe, or perill, or ſword? Nay in all theſe things we are more then conquerours, thorugh him that hath loved us.</hi>
+               </p>
+               <p>Therefore I beſeech you,<note place="margin">Pſal. 4.4.</note> let every one of us <hi>Commune with his own heart upon his bed,</hi> in his moſt ſecret thoughts; and moſt retired from the world, <hi>Examine</hi> we our own hearts how it is with our poore ſoules.</p>
+               <p>If you deſire ſo to do, then try your ſelves by theſe two rules following; and be well aſſured,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> All thoſe perſons are too too light that are not bottomed upon <hi>Chriſt the rock of our ſalvation.</hi>
+                  <note place="margin">Pſal. 89.26. Luke 13.3. Luke 18.11, 12 Matth. 5.20.</note> Except they repent they ſhall all periſh: It is not a refraining from many ſinnes and performing many duties (as did the Phariſees) that will carry one to heaven; alas, here was their overthrow,<note place="margin">Rom. 10.3. Col. 2.7. Revel. 3.18. 1 Cor. 1.30.</note> they had no root in Chriſt, as every true Chriſtian hath. And therefore Chriſt Counſelleth all to <hi>come to him for all ſpiritu<g ref="char:EOLhyphen"/>all riches. For he is made of God to us wiſdome,</hi> becauſe we are ignorant and fooliſh, <hi>Righteouſneſſe,</hi> becauſe we are ſin<g ref="char:EOLhyphen"/>full, <hi>Sanctification,</hi> becauſe we have the remnants of Corrup<g ref="char:EOLhyphen"/>tion ſtill hanging about us; and <hi>Redemption,</hi> to recover us out of the ſnares of ſin and Satan. So <hi>Paul</hi> did earneſtly deſire <hi>to be found in Chriſt his righteouſneſſe,</hi>
+                  <note place="margin">Philip. 3.8 9, 10.</note> therein to be accepted before God, which is <hi>Juſtification:</hi> And alſo the <hi>power of his reſurrection,</hi> which is Sanctification,<note place="margin">2 Cor. 5.17.</note> to be <hi>made conformable</hi> unto Chriſt; for <hi>He that is in Chriſt is a new creature.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> All thoſe perſons are too light who are caried away with every wind of Doctrine, every fond conceit and erroneous
+<pb n="42" facs="tcp:114915:27"/>
+                  <hi>opinion,</hi>
+                  <note place="margin">Quot homines, tot opiniones.</note> of which the world (I think) is now fuller then ever it was; for now adayes, how many men, ſo many mindes. For the godly,<note place="margin">Pſal. 44.13, 14, 15, 16. Pſal. 44.17.</note> they ſtick unto Chriſt in perſecution; even in reproach and deriſion, and when <hi>confuſion</hi> was before them, then they ſay, <hi>All this is come upon us, yet have we not forgot<g ref="char:EOLhyphen"/>ten thee, neither have we dealt falſly in thy Covenant.</hi> And when the Church <hi>found him whom her ſoule loved, ſhe held him and would not let him go.</hi>
+                  <note place="margin">
+                     <hi>Solomons</hi> Song 3.4.</note>
+               </p>
+               <p>Now there is a threefold levitie in men.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> To be carried away from the <hi>Doctrine</hi> of wholſome truth,even <hi>as children toſſed to and fro,</hi>
+                  <note place="margin">Epheſ. 4.14.</note> 
+                  <hi>and carried about with every winde of doctrine, by the ſleight of men and cunning craftineſſe, whereby they lye in wait to deceive,</hi> ſaith the Apoſtle <hi>Paul.</hi> Therefore the Apoſtle <hi>Peter</hi> gives to all Chriſtians, this <hi>Ca<g ref="char:EOLhyphen"/>veat;</hi>
+                  <note place="margin">2 Pet. 3.17.</note>
+                  <hi>Beloved, ſeeing ye know theſe things before, beware leſt ye alſo being led away with the errour of the wicked, fall from your own ſtedfaſtneſſe.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> To be carried away from the practiſe of the wayes of God in our generall or particular callings, as in <hi>forſaking the aſſembling of our ſelves together,</hi>
+                  <note place="margin">Heb. 10.25.</note> 
+                  <hi>as the manner of ſome is.</hi> Whereas we ſhould <hi>exhort one another, and ſo much the more as we ſee the day approaching.</hi>
+                  <note place="margin">2 Tim. 3.1, 5, 6, 7</note> For theſe are the laſt days, <hi>pe<g ref="char:EOLhyphen"/>rillous times, Men having a forme of godlineſſe and denying the power of it: Of this ſort</hi> (ſaith the holy Apoſtle) <hi>are they which creep into houſes, and lead captive ſilly women, laden with ſins, led away with diverſe luſts, ever learning and never able to come to the knowledge of the truth:</hi>
+                  <note place="margin">Titus 1.11.</note> 
+                  <hi>Whoſe mouthes muſt be ſtopped, who ſubvers whole houſes.</hi> Then ſuch houſes or houſ<g ref="char:EOLhyphen"/>holds, who are led by them, are ſubverted. For the <hi>ſacred Scripture</hi> calleth the attending upon Gods holy ordinances, <hi>an approaching to God.</hi>
+                  <note place="margin">Iſa. 58.2. Pſal. 73.27. Heb. 10.39.</note> And therefore, the withdrawing from them, is <hi>drawing back from God,</hi> and tendeth to <hi>perdition</hi> of the ſoule. And thoſe that are carried away into ſinfull wayes, as into <hi>fornication,</hi>
+                  <note place="margin">1 Cor. 6.9, 10, 11.</note> 
+                  <hi>idolatry, adultery, theft, covetouſneſſe, drunk<g ref="char:EOLhyphen"/>enneſſe, reviling or extortion, ſhall not inherit the Kingdom of God,</hi> except they be waſhed by the blood of Chriſt, and ſancti<g ref="char:EOLhyphen"/>fied by his <hi>Spirit.</hi>
+               </p>
+               <p>
+                  <pb n="43" facs="tcp:114915:27"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> For the gracious ſoule that hath had good aſſurance of Gods love in Chriſt, upon good grounds; to be carryed away from the ſweet comforts that are of God in Chriſt,<note place="margin">Pſal. 42 5.</note> and for the ſoule to be caſt down and diſquieted, upon every trou<g ref="char:EOLhyphen"/>ble it meets withall, is alſo an infirmity.<note place="margin">Job 15.11. Pſal. 73.2, 7, 8, 9, 10, 11, 12</note> 
+                  <hi>Are the conſolati<g ref="char:EOLhyphen"/>ons of God ſmall with thee,</hi> or in thy eſtimation? Indeed a gracious ſoul may ſomtimes refuſe to be comforted, but it is through his own infirmity,<note place="margin">Pſal. 34.8. The experi<g ref="char:EOLhyphen"/>ence of <hi>T.H.</hi>
+                  </note> and forgetfulneſſe of the moſt <hi>ſweet taſte of the Lords infinite goodneſſe</hi> to his ſoule in his calamity, and his <hi>adequate</hi> fulneſſe to ſupply his ſoules ne<g ref="char:EOLhyphen"/>ceſſities; for he hath ſomtime found by good experience, that it is better truſting in God <hi>naked,</hi> then in any creature, how richly ſoever clothed. And therefore the Apoſtle ſayth,<note place="margin">Phil. 4.4.</note> 
+                  <hi>Rejoyce in the Lord alwayes, and again I ſay, Rejoyce.</hi>
+               </p>
+               <p>Moſt true it is, that the truly godly may be carryed away, in any of theſe three Deviations, in ſome meaſure for a time, but the Lord will certainly bring them (and any other that belong unto ſalvation) back again unto himſelfe,<note place="margin">Matth 26.70, 72, 74, 75,</note> by true hu<g ref="char:EOLhyphen"/>miliation for their wanderings from him and his wayes: for the Apoſtle <hi>Paul</hi> ſayth,<note place="margin">2 Cor. 7.11. Phil 3.15.</note> 
+                  <hi>Let us therefore as many as be perfect be thus minded, and if in any thing ye be otherwiſe minded, God ſhall reveal even this unto you let us walke by the ſame rule,</hi> and he means the rule of Gods Word, out of which the fore-going directions are taken.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>3</label> The third Uſe of this point is, a Uſe of <hi>Exhortation</hi> to <milestone type="tcpmilestone" unit="unspecified" n="1"/> every one of us. Above all things (let each of us ſay) let me looke that I be in Chriſt;<note place="margin">
+                     <hi>Unum neceſſa<g ref="char:EOLhyphen"/>rium.</hi> Luke 10.42. Matth. 6.33. 1 Kings 8.38. Ezek. 36.31. Pſal. 38 4. Iſa. 44.3. Matth. 11.28. Iſa. 50.10. Pſal. 27. <hi>ult.</hi> Pſal. 126.5, 6.</note> this is the <hi>one thing that is need<g ref="char:EOLhyphen"/>full. Seeke firſt the Kingdom of God and his righteouſneſſe,</hi> that is, <hi>the righteouſneſſe of Chriſt.</hi> Deſire the Lord to ſhew thee the plague of mine own heart, and to make ſin a loath<g ref="char:EOLhyphen"/>ſome, burthenſome thing to thy ſoule, and to give thee a heart to mourn and thirſt after Jeſus Chriſt, and then in his due time he will give thee eaſes onely be content to wait pa<g ref="char:EOLhyphen"/>tiently on the Lord, and truſt in him, for God hath ſaid, <hi>Thoſe that ſow in teares ſhall reap in joy: He that goeth forth and weepeth, bearing precious ſeed, ſhall doubtleſſe come again with rejoycing, bringing his ſheaves with him. David</hi> had
+<pb n="44" facs="tcp:114915:28"/>
+good experience of this truth,<note place="margin">Pſal. 40.1, 2, 3.</note> 
+                  <hi>Waiting. I waited for Jehovah, and he enclined unto me, and heard my cry. He brought me up alſo out of an horrible pit, out of the myrie clay, and ſet my feet upon a Rock, and eſtabliſhed my goings. And he hath put a new ſong into my mouth, even praiſe unto our God.</hi>
+               </p>
+               <p>
+                  <note place="margin">A Caveat. Pſal. 73.25.</note>But be ſure then, that nothing in the world content thee, and ſatisfie thee but Chriſt himſelfe. Many would have be<g ref="char:EOLhyphen"/>nefits by Chriſt, but ſeeke thou Chriſt himſelfe; let neither eaſe of minde, meanes of grace, eſteeme of Chriſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, nor gifts and parts (though good things) content thee;<note place="margin">Job 27.8.</note> no not yet ſhews of grace: for hopes built on theſe things are but ſparks of mens own kindling.<note place="margin">Iſa. 50.11. Job 18.14.</note> If thou haſt no better hopes when thou comeſt to dye, thou ſhalt <hi>lie down in ſorrow, meeting with the King of terrours.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Endeavour thou to walke in the wayes of God, having a rule of his word, both for the action it ſelfe, the manner and end of performance of it; be obedient in all things to the re<g ref="char:EOLhyphen"/>vealed will of God; For a good man is too often out of his way:<note place="margin">1 Kings 19.13.</note> 
+                  <hi>What doeſt thou here Elijah?</hi> And the Devill will do all he can to beguile us, and apply a promiſe of Scripture too, though abuſed and wreſted: as he deale with our Saviour to perſwade him to caſt himſelfe down from the pinacle of the Temple, he told him, it is written, <hi>He ſhall give his Angels charge concerning thee,</hi>
+                  <note place="margin">Matth. 4.5, 6.</note> 
+                  <hi>and in their hands they ſhall beare thee up, leſt at any time thou daſh thy foot againſt a ſtone;</hi> but he left out theſe words, in the promiſe, <hi>in all thy wayes,</hi> for ſo the words run in the Prophet.<note place="margin">Pſal. 91.11.</note> 
+                  <hi>For he ſhall give his Angels charge over thee, to keepe thee in all thy wayes, &amp;c.</hi> And very ſad have been the miſcarryages of ſome of Gods own people, while they have gone out of their way; and yet God, in his time, hath brought them into their way again; even by weeping croſſe, and hell gates, as it was with <hi>Jonah,</hi> who being hidden to goe to <hi>Nineveh,</hi>
+                  <note place="margin">Jonah 1.1, 2, 3, &amp; 2.2, 7.</note> will needs ſaile to <hi>Tarſhiſh.</hi>
+               </p>
+               <p>
+                  <note place="margin">Lam. 3.39, 40. Matth. 6.12. 2 Cor. 7.11.</note>Look over thy wayes, and beg pardon of thy ſinfull fail<g ref="char:EOLhyphen"/>ings,<milestone type="tcpmilestone" unit="unspecified" n="3"/> with godly ſorrow, and humble confeſſion of them: if they be ſecret ſins, confeſſe them to the Lord onely, if com<g ref="char:EOLhyphen"/>fort
+<pb n="45" facs="tcp:114915:28"/>
+may be ſo obtained: but thy known ſins confeſſe thou to the Lord before his people, and give glory to God:<note place="margin">1 John 1.8, 9. Pſal. 32.5. James 5.16. Joſhua 7.19. Heb. 12.14. Verſe 4. 2 Cor. 7.1.</note> And withall. <hi>Follow peace and holineſſe, without which holineſſe, no man ſhall ſee the Lord: ſtrive againſt ſin,</hi> according to that exhortation, <hi>Having therefore theſe promiſes (dearly beloved) let us cleanſe our ſelves from all filthineſſe of the fleſh and ſpirit, perfecting holineſſe in the feare of God.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Be ſure to relye only on the bloud of Jeſus Chriſt, to waſh thee from all thy ſins;<note place="margin">1 John 1.7. Dan. 9 17, 18, 19.</note> look only to the free mercie of God in Chriſt; put nothing of thy own works to it in point of juſtification, and it will doe well;<note place="margin">Rom. 3.28. Philip. 3.9, 10. Pſal. 31.3. Pſal. 139.24. Iſa. 48.17. Pſal. 1.4. Pſal. 7.3.18, 19. Prov. 1.27. Matth. 3.12.</note> yet as heartily deſiring to feele experimentally the power of Chriſt working grace in thee, as to enjoy the benefit of his merits; and therefore beſeech him to lead thee in the way thou ſhouldſt goe, and to teach thee to profit more and more.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>4</label> The next Uſe, is a word of <hi>Terrour,</hi> to both the open wicked and hypocrites; they ſhall be found as light as chaff, ſuddenly blown away to utter deſtruction, by the whirlwind of Gods juſt wrath, <hi>for Chriſt will thoroughly purge his floor, and burn up the chaffe with unquenchable fire.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Uſe </seg>5</label> The laſt Uſe, is a word of ſweet and ſtrong conſolation,to every ſoule that depends truly on Chriſt. Go on and proſper (good ſoule) in ſo doing.<note place="margin">Iſa. 26.4.</note> 
+                  <hi>Truſt thou in the Lord for ever, for in the Lord Jehovah is everlaſting ſtrength. Happy art thou ô true Iſraelite, who is like unto thee,</hi>
+                  <note place="margin">Deut. 32.29.</note> 
+                  <hi>ô ſoul ſaved by the Lord, the ſhield of thy help?</hi>
+                  <note place="margin">Luke 12.32.</note> 
+                  <hi>and who is the ſword of thy excellencie? Fear not little flock, for it is your Fathers good pleaſure to give you the Kingdom.</hi>
+                  <note place="margin">Rom. 8.32.</note> 
+                  <hi>For if God did not ſpare his own Son, but delivered him up for us all; how ſhall he not with him alſo freely give us all things?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> O but (ſayth the poore ſoule) I dare not ſay,Chriſt is mine; oh that I had good grounds ſo to ſay!</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> But doeſt thou indeed deſire Chriſt alone, above all things? doeſt thou long for him and thirſt after him, and will no<g ref="char:EOLhyphen"/>thing elſe ſatisfie thee? Then I ſay, certainly he will ſatiſ<g ref="char:EOLhyphen"/>fie thee with himſelfe in his due time, for his promiſe is to <hi>poure waters upon the thirſty, and ſtoude upon the dry ground.</hi>
+                  <note place="margin">Iſa. 44.3.</note>
+               </p>
+               <p>
+                  <pb n="46" facs="tcp:114915:29"/>Alſo love to eue is as well, if not better, perceived in the ſoule in which love dwels, by its ſad longing after one in his abſence; as by its joyous embracing the ſame party being preſent: both which, being in truth, are ſure evidences of true love.<note place="margin">Cant. 1.7.</note> Then if we have ſuch longings for Chriſt, we love Chriſt; And if we love Chriſt, it muſt needs ſpring from his love to us firſt.<note place="margin">1 John 4.19.</note> 
+                  <hi>We love him</hi> (ſayth the Apoſtle) <hi>becauſe he loved us firſt:</hi> for fleſh and bloud never taught any ſoul to love Chriſt truly:<note place="margin">Rom. 5.5.</note> 
+                  <hi>But the love of God is ſhed abroad in our hearts,</hi> and that makes us in ſome meaſure of truth to love him,<note place="margin">John 13.1. Jer. 31.3.</note> and thoſe that Chriſt <hi>loves, he loves to the end,</hi> even <hi>with an everlaſting love.</hi>
+               </p>
+               <p>
+                  <note place="margin">Pſal. 94.19.</note>Therefore oh poore ſoule, <hi>in the multitude of thy thoughts</hi> (thy deſirings and longings after Chriſt alone) let theſe <hi>con<g ref="char:EOLhyphen"/>ſolations of God delight thy ſoul.</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> It is plain, he there means the conſolations of God, for the gracious ſoule is there ſpeak<g ref="char:EOLhyphen"/>ing unto God; and ſaith, <hi>thy conſolations,</hi> as the Hebrew word, coming of the <hi>Radix [Nacham]</hi> ſignifieth.<note place="margin">Rad. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> conſolatus eſt.</note>
+               </p>
+               <p>Give me leave (Beloved) to ſpeake onely a few words of the laſt Doctrine.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doct. </seg>3</label>
+                  <hi>That when prophane men are moſt ſinfully ſecure, then is dreadfull judgement moſt neere.</hi> As King <hi>Belſhazzar,</hi> now in his drunkenneſſe and rude prophaneſſe, was ſtrucken with feare and trembling,<note place="margin">Mr. <hi>Dering</hi> on Pſal 78.70.</note> and that night he was ſlain too. And (as a late worthy labourer in Gods harveſt, whom we men<g ref="char:EOLhyphen"/>tioned before;<note place="margin">Luke 16.1.</note> well obſerved,) the unjuſt Steward never lived more riotouſly then when his Lord was even at hand to call him to his accounts. The fooliſh Virgins are never faſter aſleep,<note place="margin">Matth. 25.6.</note> then when the Bridegroome is ready to enter into his wedding chamber. The children of this world are never more buſily occupied, then the night before their ſouls ſhall be taken from them. The ſon of perdition ſhall never be more loftie then in theſe latter dayes,<note place="margin">2 Theſſ. 2.4.</note> when he ſhall be revealed; (let me adde) and very ſhortly be deſtroyed.</p>
+               <p>
+                  <note place="margin">A little before the victory at <hi>Naſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>by,</hi> June 14<g ref="char:punc">▪</g> 1645.</note>So have we known it in this our native countrey; the ene<g ref="char:EOLhyphen"/>mies of God were never ſo proud and inſulting, as they were a little before their un-expected downfall, according to the
+<pb n="47" facs="tcp:114915:29"/>
+ſaying of <hi>Solomon Before deſtruction the heart of man is haughty: and before honour is humility.</hi>
+                  <note place="margin">Prov. 18.12. Jam. 4.6.</note> For God reſiſteth the proud; they are aſpiring, and think to climbe up to ho<g ref="char:EOLhyphen"/>nour; but God mightily reſiſts them, and throws them down to ſhame and deſtruction.<note place="margin">Prov. 3.35. Dan. 12.2.</note> For <hi>ſhame is</hi> all the <hi>promotion</hi> that ſuch <hi>fooles ſhall</hi> have at the laſt.</p>
+               <p>The Reaſon why dreadfull judgement is moſt neere when wicked men are moſt ſinfully ſecure, is;<note place="margin">Reaſon.</note>
+                  <note place="margin">Gen. 15.16.</note> becauſe their ſinnes are now grown to ſuch an height, that God in his juſtice muſt needs cut them down.</p>
+               <p>Even as when God did ſuffer <hi>Haman</hi> to contrive his plot,<note place="margin">Heſt. 5.9. &amp; 5.14. &amp; 7.9. 1 Cor. 10.5. to 12. <hi>Uſe</hi>
+                  </note>
+and bring it neer to the execution, then he hanged him up, as an enſample to all ſuch wicked ones from that time to the end of the world.</p>
+               <p>All the Uſe that I ſhall make at this time of this point, is, a word of dreadfull terrour and amazment to all ſuch as ruſh on deſperatly and careleſly in their ſinfull courſes, as the horſe ruſheth into the Battell,<note place="margin">Jer. 8.6.</note> and put far from them the thoughts of the evill day. <hi>But what will ye doe in the day of viſitation,</hi>
+                  <note place="margin">Amos 6.3. Iſa. 10.3.</note> 
+                  <hi>and in the deſolation which ſhall come from far? To whom will ye flee for help? And where will ye leave your glory?</hi> For the ſame Prophets words ſhall be verified in due time: <hi>The ſin<g ref="char:EOLhyphen"/>ners in Zion are affraid,</hi>
+                  <note place="margin">Iſa. 33.14.</note> 
+                  <hi>fearfulneſſe hath ſurpriſed the hypo<g ref="char:EOLhyphen"/>crites: who amongst us ſhall dwell with the devouring fire? Who amongst us ſhall dwell with the everlaſting burnings?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> Look you to your ſelfe, (will ſome ſay) we care not:we look to do as well as you, we feare nothing.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſw. </seg>
+                  </label> That's too true, it may be, indeed:<note place="margin">1 Theſ. 5.3. Deut. 29.19, 20.</note> 
+                  <hi>For when they ſhall ſay peace and ſafety: then ſudden deſtruction cometh upon them, and they ſhall not eſcape. And he that heareth the words of this curſe and bleſſeth himſelf in his heart, ſaying, I ſhall have peace though I walk in the imagination of mine heart, to adde drunk<g ref="char:EOLhyphen"/>enneſſe to thirſt; The Lord will not ſpare him, but then the an<g ref="char:EOLhyphen"/>ger of the Lord and his jealouſie ſhall ſmoake againſt that man, and all the curſes that are written in Gods book ſhall lie upon him, &amp;c. And I my ſelfe,</hi>
+                  <note place="margin">Jer. 21.5.</note> (ſaith Jehovah) <hi>will fight againſt you, with an out-ſtretched hand, and with a ſtrong arm, even
+<pb n="48" facs="tcp:114915:30"/>
+in anger and in fury and in great wrath.</hi>
+                  <note place="margin">Numb. 14.23. Pſal. 2.10, 11, 12.</note> And as he ſaid, <hi>Who ſhall live when God doth this? Be wiſe now therefore, O ye Kings; be inſtructed ye Judges of the earth: Serve the Lord with feare, and rejoyce with trembling. Kiſſe the Son leſt he be angry, and ye periſh from the way, when his wrath is kindled but a little: Bleſſed are all they that put their truſt in him. Now conſider this,</hi>
+                  <note place="margin">Pſal. 50.22.</note> 
+                  <hi>ye that forget God, leſt I tear you in pieces</hi> (ſaith God) <hi>and there be none to deliver. Oh that they were wiſe,</hi>
+                  <note place="margin">Deut. 32.29.</note> 
+                  <hi>that they underſtood this, that they would conſider their latter end.</hi>
+                  <note place="margin">Jer. 13.17. Heb. 6.9.</note> 
+                  <hi>But if ye will not hear it, my ſoule ſhall weep in ſecret places for your pride, &amp;c. But beloved I am perſwaded better things of you, and things that accompany ſalvation, though</hi> (out of the ſincere love I beare to your ſouls good) <hi>I thus ſpeake.</hi>
+               </p>
+               <p>
+                  <note place="margin">Heb. 12.9.</note>The Father of ſpirits give us hearts to make ſuch uſe of theſe things, as we may never come into that wofull place of everlaſting burnings and devouring flames, where <hi>the worme ſhall not die,</hi>
+                  <note place="margin">Iſa. 66.24.</note> 
+                  <hi>neither ſhall the fire be quenched.</hi> But the Re<g ref="char:EOLhyphen"/>probates ſhall be tormented,<note place="margin">Mat. 13.49, 50.</note> continually without any inter<g ref="char:EOLhyphen"/>miſſion; and there ſhall be yelling, weeping, and gnaſhing of teeth to all eternity.</p>
+               <p>
+                  <note place="margin">2 Tim. 2.7.</note>Conſider what hath been ſpoken, and the Lord give you underſtanding in all things.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="addendum">
+            <pb n="49" facs="tcp:114915:30"/>
+            <head>I will here annex theſe things to be ſeriouſly conſidered of by us.</head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The Reformers, in the beginning of this <hi>Century,</hi>
+               <note place="margin">
+                  <p>In the Book of Common Prayer.</p>
+                  <p>In the preface before the Comminati<g ref="char:EOLhyphen"/>on.</p>
+               </note>
+did publiſh their acknowledgement that they attained not to that <hi>primitive Diſcipline</hi> which they deſired; Saying,</p>
+            <p>
+               <hi>There was a godly Diſcipline in the primitive Church, which is much to be waſhed that it might be reſtored again.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Some have acknowledged Gods expectation,<note place="margin">
+                  <p>A Song of thankſgiving for Gods won<g ref="char:EOLhyphen"/>derfull works, never to be forgotten, 1588.</p>
+                  <p>Printed, 1625.</p>
+               </note> and our neglect of proceeding in Reformation: ſaying,
+<q>
+                  <l>God waited long for our return</l>
+                  <l>Unto a purer ſtrain:</l>
+                  <l>But we caſt off his Word with ſpurn,</l>
+                  <l>And horrible diſdain.</l>
+               </q>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> Some alſo, in this Century,<note place="margin">An Exhortati<g ref="char:EOLhyphen"/>on to the Bi<g ref="char:EOLhyphen"/>ſhops, Printed, 1620.</note> have foretold the fall of the proud Prelates: ſaying, <q>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> Come down ye Biſhops, feare a fall,</l>
+                     <l>Your Kingdom 'gins to ſhake,</l>
+                     <l>The hand is writing on the wall,</l>
+                     <l>Which makes your knees to quake.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> Your building like a tottering wall,</l>
+                     <l>Your ground-work laid in ſand:</l>
+                     <l>Come down it will, take <hi>Babels</hi> fall,</l>
+                     <l>Sure long it cannot ſtand.</l>
+                  </lg>
+                  <lg>
+                     <pb n="50" facs="tcp:114915:31"/>
+                     <l>It is not <hi>Jeroboams</hi> calves,<milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                     </l>
+                     <l>Can ſave you I am ſure:</l>
+                     <l>Nor yet your cruell Canon Laws,</l>
+                     <l>Can make your Kingdom dure.</l>
+                  </lg>
+                  <bibl>— <hi>Alſo Mr.</hi> Brightman, on <hi>Rev. 3.</hi>
+                  </bibl>
+               </q>
+            </p>
+            <p>
+               <note place="margin">
+                  <p>Acts &amp; Mon. Vol 3. p. 877, &amp; 878.</p>
+                  <p>
+                     <hi>Anno Chriſti,</hi> 1558.</p>
+               </note>The fulfilling of the Propheſies of Gods ſervants,<milestone type="tcpmilestone" unit="unspecified" n="IV"/> even of thoſe that lived in this <hi>Age.</hi> as,</p>
+            <p>The Propheſie of <hi>Roger Holland,</hi> Martyr, fulfilled <milestone type="tcpmilestone" unit="unspecified" n="1"/> in ceaſing the Papiſticall bloudy perſecution.</p>
+            <p>The Propheticall Excommunication pronounced <milestone type="tcpmilestone" unit="unspecified" n="2"/> by <hi>John Corneford,</hi> Martyr, againſt perſecuting Pa<g ref="char:EOLhyphen"/>piſts,<note place="margin">
+                  <p>Vol. 3. p. 89 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>Anno Chriſti,</hi> 1558.</p>
+                  <p>
+                     <hi>An Chriſt.</hi> 1641</p>
+               </note> fulfilled in their loſſe of that power within ſix dayes after.</p>
+            <p>The fulfilling of the aboveſaid Predictions, in the <milestone type="tcpmilestone" unit="unspecified" n="3"/> fall of the proud Prelates in <hi>England.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
